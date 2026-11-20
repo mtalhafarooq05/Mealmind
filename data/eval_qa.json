@@ -1,0 +1,254 @@
+[
+  {
+    "id": "q01",
+    "category": "vibe_flavor",
+    "question": "I want something super fiery that will really sizzle my tastebuds",
+    "expected_recipe_ids": ["spicy_chicken_karahi", "szechuan_chili_beef", "nashville_hot_chicken_tenders", "spicy_vindaloo_beef_curry"],
+    "reference_answer": "Try Peshawari Spicy Chicken Karahi, Szechuan Fiery Chili Beef Stir-Fry, Air-Fried Nashville Hot Chicken Tenders, or Goan Fiery Beef Vindaloo — all pack bold heat from chilies, Szechuan peppercorns, or cayenne."
+  },
+  {
+    "id": "q02",
+    "category": "vibe_flavor",
+    "question": "Suggest a cozy, rich, creamy comfort dinner",
+    "expected_recipe_ids": ["butter_chicken_murgh_makhani", "creamy_tuscan_salmon_pasta", "loaded_beef_cheeseburger_mac"],
+    "reference_answer": "Velvety Classic Butter Chicken (Murgh Makhani), Creamy Tuscan Garlic Salmon Pasta, or High-Protein Beef Cheeseburger Mac are rich, creamy comfort dinners."
+  },
+  {
+    "id": "q03",
+    "category": "vibe_flavor",
+    "question": "I'm craving something light, crisp, and refreshing for lunch",
+    "expected_recipe_ids": ["mediterranean_chickpea_quinoa_salad", "green_goddess_edamame_salad", "shrimp_garlic_zoodles"],
+    "reference_answer": "Zesty Mediterranean Quinoa & Chickpea Bowl, Crunchy Green Edamame & Avocado Power Salad, or 15-Minute Lemon Garlic Shrimp & Zucchini Noodles are light, fresh, and crisp."
+  },
+  {
+    "id": "q04",
+    "category": "vibe_flavor",
+    "question": "Give me a mouth-tingling Asian stir-fry with numbing spice",
+    "expected_recipe_ids": ["szechuan_chili_beef"],
+    "reference_answer": "Szechuan Fiery Chili Beef Stir-Fry uses toasted Szechuan peppercorns, dried red chilies, and chili oil for a bold, mouth-tingling stir-fry."
+  },
+  {
+    "id": "q05",
+    "category": "vibe_flavor",
+    "question": "I want a crunchy spicy chicken meal with pickles",
+    "expected_recipe_ids": ["nashville_hot_chicken_tenders"],
+    "reference_answer": "Air-Fried Nashville Hot Chicken Tenders are panko-crusted, brushed with a fiery cayenne-paprika hot oil glaze, and served with dill pickles."
+  },
+  {
+    "id": "q06",
+    "category": "vibe_flavor",
+    "question": "What's a smoky salty cheese dish with a spicy kick?",
+    "expected_recipe_ids": ["grilled_halloumi_harissa_bowl"],
+    "reference_answer": "Sizzling Harissa Grilled Halloumi & Couscous pairs golden pan-seared halloumi with smoky spicy rose harissa and honey over lemon-herb couscous."
+  },
+  {
+    "id": "q07",
+    "category": "vibe_flavor",
+    "question": "I feel like eating sticky sweet-and-spicy plant-based food",
+    "expected_recipe_ids": ["korean_gochujang_tofu_bowl"],
+    "reference_answer": "Crispy Korean Gochujang Glazed Tofu coats crunchy tofu cubes in a glossy, spicy-sweet gochujang, soy, and maple glaze over steamed rice."
+  },
+  {
+    "id": "q08",
+    "category": "vibe_flavor",
+    "question": "Recommend a fragrant coconut curry with seafood",
+    "expected_recipe_ids": ["thai_red_curry_shrimp"],
+    "reference_answer": "Spicy Thai Red Curry Prawns simmers plump prawns in full-fat coconut milk, Thai red curry paste, lime juice, and fresh Thai basil."
+  },
+  {
+    "id": "q09",
+    "category": "vibe_flavor",
+    "question": "Give me a warm, earthy, cozy lentil meal with sizzling garlic",
+    "expected_recipe_ids": ["red_lentil_tadka_dal"],
+    "reference_answer": "Smoky Garlic Red Lentil Dal (Tadka) finishes creamy red lentils with a sizzling tempering of toasted cumin seeds, crispy sliced garlic, and dried red chilies."
+  },
+  {
+    "id": "q10",
+    "category": "nutrition_macro",
+    "question": "I am looking for a calorie dense meal for bulking with over 850 calories",
+    "expected_recipe_ids": ["peanut_chocolate_bulking_smoothie", "loaded_beef_avocado_burrito_bowl", "double_protein_peanut_butter_oats", "creamy_tuscan_salmon_pasta"],
+    "reference_answer": "Great calorie-dense bulking options over 850 calories include the 1000-Calorie Chocolate Peanut Butter Bulk Shake (1020 kcal), Loaded Steak, Rice & Avocado Bulk Bowl (920 kcal), Mass-Gainer Peanut Butter Banana Protein Oats (890 kcal), and Creamy Tuscan Garlic Salmon Pasta (860 kcal)."
+  },
+  {
+    "id": "q11",
+    "category": "nutrition_macro",
+    "question": "Recommend a protein rich meal with at least 50 grams of protein",
+    "expected_recipe_ids": ["peanut_chocolate_bulking_smoothie", "loaded_beef_avocado_burrito_bowl", "peri_peri_grilled_chicken", "loaded_beef_cheeseburger_mac", "garlic_butter_steak_bites_potatoes"],
+    "reference_answer": "Meals with 50g+ protein include 1000-Calorie Chocolate Peanut Butter Bulk Shake (55g), Loaded Steak, Rice & Avocado Bulk Bowl (54g), Flame-Grilled Peri-Peri Chicken Bowl (52g), High-Protein Beef Cheeseburger Mac (52g), and Garlic Butter Steak Bites & Crispy Potatoes (50g)."
+  },
+  {
+    "id": "q12",
+    "category": "nutrition_macro",
+    "question": "What is the highest calorie drinkable shake for hardgainers?",
+    "expected_recipe_ids": ["peanut_chocolate_bulking_smoothie"],
+    "reference_answer": "The 1000-Calorie Chocolate Peanut Butter Bulk Shake packs 1020 calories and 55g protein using whole milk, oats, peanut butter, frozen banana, whey protein, cocoa, and honey."
+  },
+  {
+    "id": "q13",
+    "category": "nutrition_macro",
+    "question": "I'm cutting and need a very low-calorie high-protein dinner under 350 calories",
+    "expected_recipe_ids": ["shrimp_garlic_zoodles", "greek_yogurt_chicken_tikka_skewers"],
+    "reference_answer": "15-Minute Lemon Garlic Shrimp & Zucchini Noodles (290 kcal, 36g protein) and Tandoori Chicken Tikka Skewers (340 kcal, 48g protein) are ideal low-calorie, high-protein cutting meals."
+  },
+  {
+    "id": "q14",
+    "category": "nutrition_macro",
+    "question": "Give me a high-protein low-carb breakfast I can make fast",
+    "expected_recipe_ids": ["egg_white_cottage_cheese_scramble"],
+    "reference_answer": "Power Protein Egg & Cottage Cheese Scramble takes 13 minutes total and delivers 45g protein with only 11g carbs and 380 calories."
+  },
+  {
+    "id": "q15",
+    "category": "nutrition_macro",
+    "question": "What is a high-protein calorie-dense breakfast with oats and peanut butter?",
+    "expected_recipe_ids": ["double_protein_peanut_butter_oats"],
+    "reference_answer": "Mass-Gainer Peanut Butter Banana Protein Oats provides 890 calories and 48g protein from rolled oats, whole milk, whey protein, peanut butter, banana, honey, and chia seeds."
+  },
+  {
+    "id": "q16",
+    "category": "nutrition_macro",
+    "question": "Suggest a high-protein vegetarian pasta dish",
+    "expected_recipe_ids": ["spicy_arrabbiata_chickpea_pasta"],
+    "reference_answer": "Fiery Arrabbiata High-Protein Chickpea Pasta delivers 28g plant protein per serving using chickpea penne and spicy garlic tomato sauce."
+  },
+  {
+    "id": "q17",
+    "category": "nutrition_macro",
+    "question": "Which steak meal gives 50g protein with crispy potatoes?",
+    "expected_recipe_ids": ["garlic_butter_steak_bites_potatoes"],
+    "reference_answer": "Garlic Butter Steak Bites & Crispy Potatoes provides 50g protein and 760 calories with seared sirloin cubes in herb garlic butter and crispy baby potatoes."
+  },
+  {
+    "id": "q18",
+    "category": "nutrition_macro",
+    "question": "I need a creamy spicy noodle dish with over 40g protein and 700 calories",
+    "expected_recipe_ids": ["peanut_satay_chicken_noodles"],
+    "reference_answer": "Creamy Spicy Peanut Satay Chicken Noodles delivers 740 calories and 44g protein with chicken, noodles, peanut butter, sriracha, soy sauce, and lime."
+  },
+  {
+    "id": "q19",
+    "category": "recipe_detail",
+    "question": "What ingredients do I need for Peshawari Spicy Chicken Karahi?",
+    "expected_recipe_ids": ["spicy_chicken_karahi"],
+    "reference_answer": "You need 1 kg bone-in chicken, 5 ripe tomatoes, 6 green chilies, 2 tbsp ginger-garlic paste, 1/3 cup oil or ghee, 1.5 tsp red chili flakes, 1 tsp black pepper, 1 tsp roasted cumin powder, 1.5 tsp salt, plus julienned ginger and cilantro."
+  },
+  {
+    "id": "q20",
+    "category": "recipe_detail",
+    "question": "How long does Goan Fiery Beef Vindaloo take to cook?",
+    "expected_recipe_ids": ["spicy_vindaloo_beef_curry"],
+    "reference_answer": "Goan Fiery Beef Vindaloo takes 20 minutes of prep and 50 minutes of cooking (simmering 45-50 minutes until the beef is fork-tender)."
+  },
+  {
+    "id": "q21",
+    "category": "recipe_detail",
+    "question": "What gives Turkish Cilbir its spicy kick?",
+    "expected_recipe_ids": ["turkish_cilbir_poached_eggs"],
+    "reference_answer": "Turkish Cilbir gets its kick from sizzling melted butter infused with 1.5 tsp Aleppo pepper (or paprika and chili flakes) drizzled over poached eggs and garlic yogurt."
+  },
+  {
+    "id": "q22",
+    "category": "recipe_detail",
+    "question": "How do you make the marinade for Flame-Grilled Peri-Peri Chicken Bowl?",
+    "expected_recipe_ids": ["peri_peri_grilled_chicken"],
+    "reference_answer": "Blend 4 bird's eye chilies, 3 cloves garlic, juice of 1 lemon, 2 tbsp olive oil, 1 tbsp smoked paprika, 1 tsp dried oregano, and salt into a fiery marinade."
+  },
+  {
+    "id": "q23",
+    "category": "recipe_detail",
+    "question": "What makes Velvety Classic Butter Chicken creamy?",
+    "expected_recipe_ids": ["butter_chicken_murgh_makhani"],
+    "reference_answer": "Velvety Classic Butter Chicken uses 3 tbsp butter, 1/2 cup heavy cream, and 2 tbsp blended soaked cashews simmered with crushed tomatoes and fenugreek leaves."
+  },
+  {
+    "id": "q24",
+    "category": "recipe_detail",
+    "question": "How is the tofu made crispy in Crispy Korean Gochujang Glazed Tofu?",
+    "expected_recipe_ids": ["korean_gochujang_tofu_bowl"],
+    "reference_answer": "Press and cube extra-firm tofu, toss it in 2 tbsp cornstarch, and pan-fry in a little oil for 8 minutes until golden and crispy before glazing."
+  },
+  {
+    "id": "q25",
+    "category": "recipe_detail",
+    "question": "What are the ingredients in Honey Garlic Teriyaki Salmon & Broccoli?",
+    "expected_recipe_ids": ["teriyaki_glazed_salmon_broccoli"],
+    "reference_answer": "It uses 2 salmon fillets, 3 tbsp soy sauce, 2 tbsp honey, 1 tbsp rice vinegar, 1 tsp fresh ginger, 2 cloves garlic, 2 cups broccoli florets, and 1 tsp sesame seeds."
+  },
+  {
+    "id": "q26",
+    "category": "recipe_detail",
+    "question": "How do you prepare the tzatziki in High-Protein Greek Chicken Gyro Bowl?",
+    "expected_recipe_ids": ["greek_chicken_tzatziki_gyro"],
+    "reference_answer": "Mix 1/2 cup Greek yogurt with 1/2 grated and squeezed-dry cucumber, 1 clove garlic, 1 tbsp fresh dill, and lemon juice."
+  },
+  {
+    "id": "q27",
+    "category": "recipe_detail",
+    "question": "What spice gives Lahori Spiced Chana Masala its tangy flavor?",
+    "expected_recipe_ids": ["lahori_chana_masala"],
+    "reference_answer": "Amchur (1/2 tsp dried mango powder) gives Lahori Spiced Chana Masala its signature tangy punch alongside pureed tomatoes and warm spices."
+  },
+  {
+    "id": "q28",
+    "category": "dietary_quick",
+    "question": "Give me a quick no-cook vegan salad under 15 minutes",
+    "expected_recipe_ids": ["green_goddess_edamame_salad"],
+    "reference_answer": "Crunchy Green Edamame & Avocado Power Salad is vegan, gluten-free, no-cook, and takes just 12 minutes to prep."
+  },
+  {
+    "id": "q29",
+    "category": "dietary_quick",
+    "question": "Suggest a quick vegetarian high-protein wrap under 25 minutes",
+    "expected_recipe_ids": ["paneer_bhurji_wrap"],
+    "reference_answer": "Spiced Paneer Bhurji Protein Wrap takes 22 minutes total (10 min prep, 12 min cook) and provides 31g vegetarian protein."
+  },
+  {
+    "id": "q30",
+    "category": "dietary_quick",
+    "question": "I want a quick dairy-free high-protein toast ready in about 10 minutes",
+    "expected_recipe_ids": ["tuna_avocado_protein_toast"],
+    "reference_answer": "Lemon-Pepper Tuna & Avocado Sourdough Toast is dairy-free, ready in 11 minutes, and delivers 38g protein."
+  },
+  {
+    "id": "q31",
+    "category": "dietary_quick",
+    "question": "Recommend a vegan gluten-free Mexican dinner",
+    "expected_recipe_ids": ["black_bean_sweet_potato_tacos"],
+    "reference_answer": "Smoky Chipotle Black Bean & Sweet Potato Tacos are vegan, dairy-free, and gluten-free using corn tortillas, chipotle-roasted sweet potatoes, black beans, and lime cabbage slaw."
+  },
+  {
+    "id": "q32",
+    "category": "dietary_quick",
+    "question": "What is a quick calorie-dense smoked salmon breakfast?",
+    "expected_recipe_ids": ["avocado_egg_bagel_smash"],
+    "reference_answer": "Calorie-Packed Smoked Salmon & Avocado Bagel takes just 12 minutes total and delivers 720 calories and 36g protein."
+  },
+  {
+    "id": "q33",
+    "category": "dietary_quick",
+    "question": "Suggest a meatless spicy buffalo dinner wrap",
+    "expected_recipe_ids": ["crispy_buffalo_cauliflower_wraps"],
+    "reference_answer": "Zesty Buffalo Roasted Cauliflower Wraps roast cauliflower until crisp, toss it in buffalo hot sauce, and wrap it with romaine and Greek yogurt ranch."
+  },
+  {
+    "id": "q34",
+    "category": "dietary_quick",
+    "question": "What is a quick 15-minute vegetarian brunch with eggs and yogurt?",
+    "expected_recipe_ids": ["turkish_cilbir_poached_eggs"],
+    "reference_answer": "Turkish Cilbir (Garlic Yogurt & Chili Butter Eggs) is a 15-minute vegetarian brunch with 26g protein, poached eggs, garlic Greek yogurt, and chili butter."
+  },
+  {
+    "id": "q35",
+    "category": "dietary_quick",
+    "question": "Give me a fast vegan high-protein pasta ready in 20 minutes",
+    "expected_recipe_ids": ["spicy_arrabbiata_chickpea_pasta"],
+    "reference_answer": "Fiery Arrabbiata High-Protein Chickpea Pasta is vegan, gluten-free, takes 20 minutes total, and packs 28g protein."
+  },
+  {
+    "id": "q36",
+    "category": "dietary_quick",
+    "question": "Suggest a quick 25-minute dairy-free Japanese fish dinner",
+    "expected_recipe_ids": ["teriyaki_glazed_salmon_broccoli"],
+    "reference_answer": "Honey Garlic Teriyaki Salmon & Broccoli is dairy-free, takes 25 minutes total, and delivers 41g protein."
+  }
+]

@@ -1,0 +1,907 @@
+[
+  {
+    "id": "spicy_chicken_karahi",
+    "name": "Peshawari Spicy Chicken Karahi",
+    "cuisine": "Pakistani",
+    "prep_time_min": 15,
+    "cook_time_min": 30,
+    "servings": 4,
+    "difficulty": "Medium",
+    "nutrition": {"calories": 480, "protein_g": 44, "carbs_g": 12, "fat_g": 28},
+    "flavor_profile": ["spicy", "fiery", "bold", "tangy", "aromatic", "sizzling"],
+    "dietary_tags": ["high-protein", "gluten-free", "low-carb", "halal"],
+    "vibe_description": "A fiery, sizzling wok-cooked chicken dish bursting with green chilies, crushed black pepper, ginger, and jammy tomatoes. Ideal when you want bold heat that wakes up your tastebuds.",
+    "ingredients": [
+      "1 kg bone-in chicken pieces",
+      "5 ripe tomatoes, roughly chopped",
+      "6 green chilies, slit lengthwise",
+      "2 tbsp ginger-garlic paste",
+      "1/3 cup cooking oil or ghee",
+      "1.5 tsp crushed red chili flakes",
+      "1 tsp freshly cracked black pepper",
+      "1 tsp roasted cumin powder",
+      "1.5 tsp salt",
+      "Fresh julienned ginger and cilantro for garnish"
+    ],
+    "steps": [
+      "Heat oil in a wok or karahi over high heat and sear chicken with salt and ginger-garlic paste for 8 minutes until golden.",
+      "Add chopped tomatoes, cover, and cook for 8 minutes until skins soften; peel and discard skins.",
+      "Mash tomatoes into a thick masala and stir-fry on high heat for 10 minutes until oil separates.",
+      "Toss in slit green chilies, chili flakes, cumin, and black pepper; stir-fry 3 more minutes.",
+      "Garnish with julienned ginger and fresh cilantro; serve sizzling hot with naan."
+    ]
+  },
+  {
+    "id": "szechuan_chili_beef",
+    "name": "Szechuan Fiery Chili Beef Stir-Fry",
+    "cuisine": "Chinese",
+    "prep_time_min": 15,
+    "cook_time_min": 12,
+    "servings": 3,
+    "difficulty": "Medium",
+    "nutrition": {"calories": 540, "protein_g": 46, "carbs_g": 22, "fat_g": 29},
+    "flavor_profile": ["fiery", "spicy", "numbing", "savory", "bold", "sizzling"],
+    "dietary_tags": ["high-protein", "quick", "dairy-free", "halal"],
+    "vibe_description": "An intense, mouth-tingling stir-fry with Szechuan peppercorns, dried red chilies, and crispy seared beef strips. Built for spice lovers who want their tastebuds sizzling.",
+    "ingredients": [
+      "600g flank steak, thinly sliced against the grain",
+      "2 tbsp soy sauce",
+      "1 tbsp cornstarch",
+      "2 tbsp chili oil with sediment",
+      "1 tsp toasted Szechuan peppercorns, crushed",
+      "8 dried red chilies",
+      "4 cloves garlic, minced",
+      "1 red bell pepper, sliced",
+      "3 scallions, cut into 2-inch pieces"
+    ],
+    "steps": [
+      "Toss sliced beef with soy sauce and cornstarch; rest 10 minutes.",
+      "Heat wok until smoking, add chili oil, and sear beef in a single layer for 3 minutes until crisp at edges.",
+      "Add garlic, dried chilies, and crushed Szechuan peppercorns; stir-fry 45 seconds until fragrant.",
+      "Toss in bell pepper and scallions for 2 minutes until crisp-tender, then serve immediately."
+    ]
+  },
+  {
+    "id": "peri_peri_grilled_chicken",
+    "name": "Flame-Grilled Peri-Peri Chicken Bowl",
+    "cuisine": "Portuguese-African",
+    "prep_time_min": 20,
+    "cook_time_min": 18,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 510, "protein_g": 52, "carbs_g": 38, "fat_g": 16},
+    "flavor_profile": ["spicy", "zesty", "smoky", "tangy", "bold"],
+    "dietary_tags": ["high-protein", "gluten-free", "dairy-free", "halal"],
+    "vibe_description": "Smoky, zesty, and punchy peri-peri marinated chicken breast paired with spiced rice. High in lean protein with a bright lemon-chili kick.",
+    "ingredients": [
+      "400g boneless skinless chicken breasts",
+      "4 bird's eye chilies",
+      "3 cloves garlic",
+      "Juice of 1 lemon",
+      "2 tbsp olive oil",
+      "1 tbsp smoked paprika",
+      "1 tsp dried oregano",
+      "1 cup cooked basmati rice",
+      "1 cup roasted corn and cucumber salsa"
+    ],
+    "steps": [
+      "Blend bird's eye chilies, garlic, lemon juice, olive oil, smoked paprika, oregano, and salt into a fiery marinade.",
+      "Coat chicken breasts and marinate for at least 15 minutes.",
+      "Grill over medium-high heat for 7-8 minutes per side until charred and cooked through.",
+      "Slice and serve over basmati rice topped with fresh corn and cucumber salsa."
+    ]
+  },
+  {
+    "id": "double_protein_peanut_butter_oats",
+    "name": "Mass-Gainer Peanut Butter Banana Protein Oats",
+    "cuisine": "American",
+    "prep_time_min": 5,
+    "cook_time_min": 7,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 890, "protein_g": 48, "carbs_g": 98, "fat_g": 34},
+    "flavor_profile": ["sweet", "nutty", "creamy", "rich", "comforting"],
+    "dietary_tags": ["calorie-dense", "high-protein", "vegetarian", "quick", "bulking"],
+    "vibe_description": "A thick, creamy, ultra calorie-dense breakfast bowl loaded with oats, whole milk, peanut butter, whey protein, and banana. Designed for hardgainers and clean bulking.",
+    "ingredients": [
+      "1 cup rolled oats",
+      "1.5 cups whole milk",
+      "1 scoop (32g) vanilla or chocolate whey protein",
+      "2 tbsp creamy peanut butter",
+      "1 large ripe banana, sliced",
+      "1 tbsp honey",
+      "1 tbsp chia seeds",
+      "Pinch of cinnamon"
+    ],
+    "steps": [
+      "Simmer rolled oats, whole milk, chia seeds, and cinnamon in a saucepan for 5-6 minutes until thick.",
+      "Remove from heat and let cool for 1 minute before stirring in the whey protein powder smoothly.",
+      "Swirl in peanut butter and honey, then top with sliced banana and serve warm."
+    ]
+  },
+  {
+    "id": "loaded_beef_avocado_burrito_bowl",
+    "name": "Loaded Steak, Rice & Avocado Bulk Bowl",
+    "cuisine": "Mexican",
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 920, "protein_g": 54, "carbs_g": 82, "fat_g": 42},
+    "flavor_profile": ["savory", "smoky", "creamy", "zesty", "hearty"],
+    "dietary_tags": ["calorie-dense", "high-protein", "gluten-free", "bulking", "halal"],
+    "vibe_description": "A massive, calorie-dense power bowl combining seared cumin-lime steak, black beans, cilantro rice, cheddar cheese, and a whole avocado for serious energy and muscle recovery.",
+    "ingredients": [
+      "450g sirloin steak, cubed",
+      "2 cups cooked jasmine rice",
+      "1 cup black beans, rinsed",
+      "1 whole ripe avocado, sliced",
+      "1/2 cup shredded cheddar cheese",
+      "2 tbsp olive oil",
+      "1 tsp cumin and 1 tsp chili powder",
+      "Juice of 1 lime",
+      "2 tbsp sour cream"
+    ],
+    "steps": [
+      "Season steak cubes with cumin, chili powder, salt, and pepper.",
+      "Sear steak in hot olive oil for 5-6 minutes until browned to medium.",
+      "Warm black beans and toss cooked rice with lime juice.",
+      "Assemble bowls with rice, beans, steak, shredded cheddar, avocado slices, and sour cream."
+    ]
+  },
+  {
+    "id": "creamy_tuscan_salmon_pasta",
+    "name": "Creamy Tuscan Garlic Salmon Pasta",
+    "cuisine": "Italian",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "servings": 2,
+    "difficulty": "Medium",
+    "nutrition": {"calories": 860, "protein_g": 45, "carbs_g": 72, "fat_g": 43},
+    "flavor_profile": ["creamy", "rich", "savory", "garlicky", "comforting"],
+    "dietary_tags": ["calorie-dense", "high-protein", "comfort-food"],
+    "vibe_description": "Velvety garlic parmesan cream sauce clinging to fettuccine with pan-seared salmon, sun-dried tomatoes, and wilted spinach. Rich, indulgent, and high in omega-3s and calories.",
+    "ingredients": [
+      "350g salmon fillets",
+      "200g fettuccine pasta",
+      "1 cup heavy cream",
+      "1/2 cup grated parmesan cheese",
+      "1/3 cup sun-dried tomatoes, chopped",
+      "2 cups fresh baby spinach",
+      "4 cloves garlic, minced",
+      "2 tbsp butter"
+    ],
+    "steps": [
+      "Boil fettuccine in salted water until al dente; reserve 1/2 cup pasta water.",
+      "Pan-sear seasoned salmon in butter for 4 minutes per side; set aside.",
+      "In the same pan, sauté garlic and sun-dried tomatoes for 1 minute, pour in heavy cream, and simmer 3 minutes.",
+      "Stir in parmesan and spinach until melted and wilted, toss in pasta, and top with flaked salmon."
+    ]
+  },
+  {
+    "id": "greek_yogurt_chicken_tikka_skewers",
+    "name": "Tandoori Chicken Tikka Skewers",
+    "cuisine": "South Asian",
+    "prep_time_min": 20,
+    "cook_time_min": 15,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 340, "protein_g": 48, "carbs_g": 9, "fat_g": 12},
+    "flavor_profile": ["smoky", "spicy", "tangy", "aromatic"],
+    "dietary_tags": ["high-protein", "low-carb", "gluten-free", "halal"],
+    "vibe_description": "Juicy, smoky yogurt-marinated chicken cubes charred to perfection with garam masala and Kashmiri chili. Ultra lean protein for cutting or high-protein meal prep.",
+    "ingredients": [
+      "600g chicken breast, cut into chunks",
+      "1/2 cup thick Greek yogurt",
+      "1.5 tbsp tandoori masala",
+      "1 tsp Kashmiri red chili powder",
+      "1 tbsp ginger-garlic paste",
+      "1 tbsp lemon juice",
+      "1 tbsp mustard or olive oil",
+      "1 tsp salt"
+    ],
+    "steps": [
+      "Whisk Greek yogurt, spices, ginger-garlic paste, lemon juice, oil, and salt.",
+      "Coat chicken chunks and marinate for at least 20 minutes (or overnight).",
+      "Thread onto skewers and bake at 220°C (425°F) or air-fry for 14-15 minutes until charred at the edges."
+    ]
+  },
+  {
+    "id": "korean_gochujang_tofu_bowl",
+    "name": "Crispy Korean Gochujang Glazed Tofu",
+    "cuisine": "Korean",
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 460, "protein_g": 26, "carbs_g": 54, "fat_g": 15},
+    "flavor_profile": ["spicy", "sweet", "umami", "sticky", "bold"],
+    "dietary_tags": ["vegan", "vegetarian", "dairy-free", "high-protein"],
+    "vibe_description": "Crunchy pan-fried tofu cubes coated in a glossy, spicy-sweet Korean gochujang glaze over steamed rice. A bold, plant-based flavor bomb.",
+    "ingredients": [
+      "400g extra-firm tofu, pressed and cubed",
+      "2 tbsp cornstarch",
+      "2 tbsp gochujang (Korean chili paste)",
+      "1.5 tbsp soy sauce",
+      "1 tbsp maple syrup or honey",
+      "1 tbsp rice vinegar",
+      "2 cloves garlic, minced",
+      "1 tsp sesame oil and toasted sesame seeds",
+      "1.5 cups cooked short-grain rice"
+    ],
+    "steps": [
+      "Toss pressed tofu cubes in cornstarch and pan-fry in a little oil for 8 minutes until golden and crispy.",
+      "Whisk gochujang, soy sauce, maple syrup, rice vinegar, garlic, and 2 tbsp water.",
+      "Pour sauce into the pan and toss for 2 minutes until sticky and caramelized.",
+      "Serve over rice garnished with sesame seeds and sliced green onions."
+    ]
+  },
+  {
+    "id": "egg_white_cottage_cheese_scramble",
+    "name": "Power Protein Egg & Cottage Cheese Scramble",
+    "cuisine": "American",
+    "prep_time_min": 5,
+    "cook_time_min": 8,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 380, "protein_g": 45, "carbs_g": 11, "fat_g": 16},
+    "flavor_profile": ["savory", "creamy", "light", "herby"],
+    "dietary_tags": ["high-protein", "vegetarian", "gluten-free", "low-carb", "quick"],
+    "vibe_description": "Fluffy, velvety scrambled eggs boosted with cottage cheese and spinach. A 10-minute breakfast packing 45 grams of protein with minimal carbs.",
+    "ingredients": [
+      "3 whole eggs",
+      "1/2 cup liquid egg whites",
+      "1/2 cup low-fat cottage cheese",
+      "1 cup baby spinach",
+      "1/4 cup cherry tomatoes, halved",
+      "1 tsp olive oil",
+      "Salt, black pepper, and chili flakes"
+    ],
+    "steps": [
+      "Whisk whole eggs, egg whites, cottage cheese, salt, and pepper together.",
+      "Sauté spinach and cherry tomatoes in olive oil over medium heat for 2 minutes.",
+      "Pour in egg mixture and gently fold on medium-low heat for 4-5 minutes until soft curds form."
+    ]
+  },
+  {
+    "id": "thai_red_curry_shrimp",
+    "name": "Spicy Thai Red Curry Prawns",
+    "cuisine": "Thai",
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 440, "protein_g": 34, "carbs_g": 20, "fat_g": 25},
+    "flavor_profile": ["spicy", "aromatic", "creamy", "zesty", "fragrant"],
+    "dietary_tags": ["high-protein", "gluten-free", "dairy-free", "quick"],
+    "vibe_description": "Fragrant coconut red curry simmered with lemongrass, Thai basil, bell peppers, and plump prawns. Balanced heat with rich tropical creaminess.",
+    "ingredients": [
+      "500g large prawns, peeled and deveined",
+      "3 tbsp Thai red curry paste",
+      "1 can (400ml) full-fat coconut milk",
+      "1 red bell pepper, sliced",
+      "1 tbsp fish sauce or soy sauce",
+      "1 tsp brown sugar",
+      "Juice of 1 lime",
+      "Handful of fresh Thai basil leaves"
+    ],
+    "steps": [
+      "Fry red curry paste in 2 tbsp of thick coconut cream for 2 minutes until aromatic.",
+      "Pour in remaining coconut milk, fish sauce, and sugar; simmer 5 minutes.",
+      "Add bell pepper and prawns; cook 4-5 minutes until prawns turn pink.",
+      "Turn off heat, stir in lime juice and fresh Thai basil, and serve with jasmine rice."
+    ]
+  },
+  {
+    "id": "mediterranean_chickpea_quinoa_salad",
+    "name": "Zesty Mediterranean Quinoa & Chickpea Bowl",
+    "cuisine": "Mediterranean",
+    "prep_time_min": 12,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 430, "protein_g": 18, "carbs_g": 58, "fat_g": 14},
+    "flavor_profile": ["fresh", "zesty", "tangy", "light", "herby"],
+    "dietary_tags": ["vegetarian", "gluten-free", "light", "meal-prep"],
+    "vibe_description": "Crisp, bright, and refreshing bowl of fluffy quinoa, roasted chickpeas, cucumber, feta, and lemon-oregano dressing. Perfect when you want something light and clean.",
+    "ingredients": [
+      "1 cup cooked quinoa",
+      "1 cup cooked chickpeas, drained",
+      "1 English cucumber, diced",
+      "1 cup cherry tomatoes, halved",
+      "1/3 cup crumbled feta cheese",
+      "1/4 cup Kalamata olives",
+      "2 tbsp extra virgin olive oil",
+      "Juice of 1 lemon and 1 tsp dried oregano"
+    ],
+    "steps": [
+      "Combine cooked quinoa, chickpeas, cucumber, cherry tomatoes, olives, and feta in a large bowl.",
+      "Whisk olive oil, lemon juice, oregano, salt, and pepper.",
+      "Drizzle dressing over the bowl, toss gently, and serve chilled or at room temperature."
+    ]
+  },
+  {
+    "id": "red_lentil_tadka_dal",
+    "name": "Smoky Garlic Red Lentil Dal (Tadka)",
+    "cuisine": "South Asian",
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "servings": 4,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 320, "protein_g": 19, "carbs_g": 46, "fat_g": 7},
+    "flavor_profile": ["comforting", "earthy", "garlicky", "spiced", "warm"],
+    "dietary_tags": ["vegan", "vegetarian", "gluten-free", "budget-friendly"],
+    "vibe_description": "Cozy, velvety red lentils finished with a sizzling tempering of toasted cumin, crispy garlic, and red chilies. Wholesome comfort food packed with plant protein and fiber.",
+    "ingredients": [
+      "1.5 cups red lentils (masoor dal), rinsed",
+      "4 cups water",
+      "1/2 tsp turmeric powder",
+      "1 medium tomato, diced",
+      "2 tbsp ghee or oil",
+      "1 tsp whole cumin seeds",
+      "5 cloves garlic, thinly sliced",
+      "3 dried red chilies",
+      "1 tsp salt and fresh cilantro"
+    ],
+    "steps": [
+      "Boil rinsed lentils with water, turmeric, tomato, and salt for 18-20 minutes until creamy.",
+      "Heat ghee in a small skillet, crackle cumin seeds, then fry sliced garlic and dried chilies until golden.",
+      "Pour the sizzling tadka directly over the hot dal, garnish with cilantro, and serve with rice or roti."
+    ]
+  },
+  {
+    "id": "garlic_butter_steak_bites_potatoes",
+    "name": "Garlic Butter Steak Bites & Crispy Potatoes",
+    "cuisine": "American",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 760, "protein_g": 50, "carbs_g": 48, "fat_g": 40},
+    "flavor_profile": ["savory", "garlicky", "buttery", "rich", "hearty"],
+    "dietary_tags": ["high-protein", "calorie-dense", "gluten-free", "halal"],
+    "vibe_description": "Juicy seared sirloin cubes bathed in herb garlic butter alongside golden crispy baby potatoes. Hearty, protein-packed, and satisfying after a heavy workout.",
+    "ingredients": [
+      "500g sirloin steak, cut into 1-inch cubes",
+      "400g baby potatoes, halved",
+      "3 tbsp unsalted butter",
+      "1 tbsp olive oil",
+      "5 cloves garlic, minced",
+      "1 tsp fresh rosemary, chopped",
+      "Salt and cracked black pepper"
+    ],
+    "steps": [
+      "Roast or pan-fry halved baby potatoes in olive oil with salt for 15 minutes until crispy and golden.",
+      "In a hot cast-iron skillet, sear seasoned steak bites in batches for 3 minutes until crusted.",
+      "Lower heat, add butter, garlic, and rosemary, and baste steak bites for 1 minute before serving with potatoes."
+    ]
+  },
+  {
+    "id": "paneer_bhurji_wrap",
+    "name": "Spiced Paneer Bhurji Protein Wrap",
+    "cuisine": "Indian",
+    "prep_time_min": 10,
+    "cook_time_min": 12,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 520, "protein_g": 31, "carbs_g": 42, "fat_g": 24},
+    "flavor_profile": ["spicy", "savory", "tangy", "warm"],
+    "dietary_tags": ["vegetarian", "high-protein", "quick"],
+    "vibe_description": "Crumbled paneer sautéed with onions, green chilies, tomatoes, and garam masala, rolled into warm whole-wheat wraps with mint chutney. Fast vegetarian protein.",
+    "ingredients": [
+      "250g fresh paneer, crumbled",
+      "1 medium onion, finely chopped",
+      "1 tomato, chopped",
+      "2 green chilies, minced",
+      "1/2 tsp turmeric and 1 tsp garam masala",
+      "1 tbsp oil",
+      "2 whole-wheat tortillas or parathas",
+      "2 tbsp mint-yogurt chutney"
+    ],
+    "steps": [
+      "Sauté onions and green chilies in oil for 4 minutes until translucent.",
+      "Add tomatoes, turmeric, garam masala, and salt; cook 3 minutes until soft.",
+      "Fold in crumbled paneer and cook 3 minutes until heated through.",
+      "Spread mint chutney on warm wraps, fill with paneer bhurji, roll tight, and toast lightly."
+    ]
+  },
+  {
+    "id": "nashville_hot_chicken_tenders",
+    "name": "Air-Fried Nashville Hot Chicken Tenders",
+    "cuisine": "American",
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Medium",
+    "nutrition": {"calories": 590, "protein_g": 49, "carbs_g": 36, "fat_g": 26},
+    "flavor_profile": ["fiery", "spicy", "crunchy", "smoky", "bold", "sizzling"],
+    "dietary_tags": ["high-protein", "halal"],
+    "vibe_description": "Ultra-crunchy chicken tenders brushed with a blazing cayenne-paprika hot oil glaze and served with tangy dill pickles. Serious crunch and tongue-tingling heat.",
+    "ingredients": [
+      "450g chicken tenderloins",
+      "1/2 cup buttermilk",
+      "1 cup seasoned panko breadcrumbs",
+      "2 tbsp cayenne pepper",
+      "1 tbsp smoked paprika",
+      "1 tbsp brown sugar",
+      "1 tsp garlic powder",
+      "3 tbsp hot neutral oil",
+      "Dill pickle slices for serving"
+    ],
+    "steps": [
+      "Dip chicken tenders in buttermilk, then press firmly into panko breadcrumbs.",
+      "Air-fry at 200°C (400°F) for 13-15 minutes, flipping halfway, until golden and crisp.",
+      "Whisk cayenne, paprika, brown sugar, garlic powder, and hot oil into a fiery glaze.",
+      "Brush hot glaze generously over crispy tenders and serve with pickles."
+    ]
+  },
+  {
+    "id": "peanut_chocolate_bulking_smoothie",
+    "name": "1000-Calorie Chocolate Peanut Butter Bulk Shake",
+    "cuisine": "American",
+    "prep_time_min": 5,
+    "cook_time_min": 0,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 1020, "protein_g": 55, "carbs_g": 108, "fat_g": 40},
+    "flavor_profile": ["sweet", "chocolaty", "nutty", "creamy", "rich"],
+    "dietary_tags": ["calorie-dense", "high-protein", "vegetarian", "quick", "bulking", "no-cook"],
+    "vibe_description": "A drinkable 1,000-calorie powerhouse shake with oats, banana, whole milk, peanut butter, cocoa, and whey protein. The easiest way to hit a calorie surplus in 5 minutes.",
+    "ingredients": [
+      "1.5 cups whole milk",
+      "1/2 cup rolled oats",
+      "2 tbsp peanut butter",
+      "1 large frozen banana",
+      "1.5 scoops chocolate whey protein",
+      "1 tbsp unsweetened cocoa powder",
+      "1 tbsp honey or maple syrup"
+    ],
+    "steps": [
+      "Blend rolled oats dry for 10 seconds into a fine powder.",
+      "Add whole milk, frozen banana, peanut butter, whey protein, cocoa powder, and honey.",
+      "Blend on high for 45 seconds until completely smooth and creamy; serve immediately."
+    ]
+  },
+  {
+    "id": "tuna_avocado_protein_toast",
+    "name": "Lemon-Pepper Tuna & Avocado Sourdough Toast",
+    "cuisine": "Mediterranean",
+    "prep_time_min": 8,
+    "cook_time_min": 3,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 470, "protein_g": 38, "carbs_g": 34, "fat_g": 20},
+    "flavor_profile": ["fresh", "zesty", "creamy", "savory", "light"],
+    "dietary_tags": ["high-protein", "quick", "dairy-free"],
+    "vibe_description": "Crunchy toasted sourdough piled with smashed lemon-avocado and flaky tuna tossed in capers and black pepper. Ready in 10 minutes with 38g of clean protein.",
+    "ingredients": [
+      "1 can (140g) tuna in water, drained",
+      "1/2 ripe avocado",
+      "2 slices sourdough bread",
+      "1 tbsp Greek yogurt or olive oil",
+      "Juice of 1/2 lemon",
+      "1/2 tsp cracked black pepper",
+      "Red chili flakes and chopped parsley"
+    ],
+    "steps": [
+      "Toast sourdough slices until deeply golden and crisp.",
+      "Mash avocado with lemon juice and salt; spread generously on toast.",
+      "Mix drained tuna with olive oil, black pepper, and parsley; pile on top and finish with chili flakes."
+    ]
+  },
+  {
+    "id": "butter_chicken_murgh_makhani",
+    "name": "Velvety Classic Butter Chicken (Murgh Makhani)",
+    "cuisine": "South Asian",
+    "prep_time_min": 20,
+    "cook_time_min": 25,
+    "servings": 4,
+    "difficulty": "Medium",
+    "nutrition": {"calories": 640, "protein_g": 42, "carbs_g": 18, "fat_g": 44},
+    "flavor_profile": ["creamy", "rich", "buttery", "mildly-spiced", "comforting"],
+    "dietary_tags": ["high-protein", "calorie-dense", "gluten-free", "comfort-food", "halal"],
+    "vibe_description": "Tender charred chicken simmered in a silky spiced tomato, butter, and cashew-cream gravy with fenugreek leaves. Ultimate cozy, rich comfort food.",
+    "ingredients": [
+      "700g boneless chicken thighs, cubed",
+      "3 tbsp butter",
+      "400g crushed tomatoes",
+      "1/2 cup heavy cream",
+      "2 tbsp soaked cashews, blended smooth",
+      "1.5 tbsp ginger-garlic paste",
+      "1 tsp Kashmiri chili powder and 1 tsp garam masala",
+      "1 tbsp dried fenugreek leaves (kasuri methi)"
+    ],
+    "steps": [
+      "Pan-sear spiced chicken thigh cubes in 1 tbsp butter for 6 minutes until lightly charred; set aside.",
+      "Sauté ginger-garlic paste in remaining butter, add crushed tomatoes and spices, and simmer 12 minutes.",
+      "Blend sauce smooth with cashew paste, return to pan, and stir in heavy cream and chicken.",
+      "Simmer 6 minutes until thickened, crush fenugreek leaves on top, and serve with garlic naan."
+    ]
+  },
+  {
+    "id": "black_bean_sweet_potato_tacos",
+    "name": "Smoky Chipotle Black Bean & Sweet Potato Tacos",
+    "cuisine": "Mexican",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 420, "protein_g": 15, "carbs_g": 64, "fat_g": 12},
+    "flavor_profile": ["smoky", "spicy", "sweet", "zesty"],
+    "dietary_tags": ["vegan", "vegetarian", "dairy-free", "gluten-free"],
+    "vibe_description": "Caramelized chipotle-roasted sweet potatoes paired with spiced black beans and tangy lime-cabbage slaw in warm corn tortillas.",
+    "ingredients": [
+      "2 medium sweet potatoes, diced small",
+      "1 can black beans, drained and rinsed",
+      "1 tbsp chipotle in adobo sauce, minced",
+      "1 tsp smoked paprika and 1 tsp cumin",
+      "2 tbsp olive oil",
+      "6 corn tortillas",
+      "1 cup shredded red cabbage with lime juice"
+    ],
+    "steps": [
+      "Toss diced sweet potatoes with olive oil, chipotle, cumin, paprika, and salt; roast at 210°C for 18 minutes.",
+      "Warm black beans with a pinch of cumin.",
+      "Char corn tortillas briefly over a flame or skillet.",
+      "Assemble tacos with roasted sweet potatoes, black beans, and zesty lime cabbage slaw."
+    ]
+  },
+  {
+    "id": "teriyaki_glazed_salmon_broccoli",
+    "name": "Honey Garlic Teriyaki Salmon & Broccoli",
+    "cuisine": "Japanese",
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 530, "protein_g": 41, "carbs_g": 32, "fat_g": 26},
+    "flavor_profile": ["sweet", "savory", "umami", "garlicky"],
+    "dietary_tags": ["high-protein", "dairy-free", "quick"],
+    "vibe_description": "Flaky caramelized salmon fillets glazed in glossy soy-honey-ginger sauce alongside crisp steamed broccoli. Balanced, clean, and ready in 25 minutes.",
+    "ingredients": [
+      "2 salmon fillets (180g each)",
+      "3 tbsp soy sauce",
+      "2 tbsp honey",
+      "1 tbsp rice vinegar",
+      "1 tsp grated fresh ginger and 2 cloves garlic",
+      "2 cups broccoli florets",
+      "1 tsp sesame seeds"
+    ],
+    "steps": [
+      "Whisk soy sauce, honey, rice vinegar, ginger, and garlic.",
+      "Sear salmon skin-side down for 4 minutes, flip, and pour teriyaki glaze into the pan.",
+      "Simmer 3-4 minutes, spooning glossy glaze over the fish until thickened.",
+      "Steam broccoli for 4 minutes and serve together sprinkled with sesame seeds."
+    ]
+  },
+  {
+    "id": "spicy_arrabbiata_chickpea_pasta",
+    "name": "Fiery Arrabbiata High-Protein Chickpea Pasta",
+    "cuisine": "Italian",
+    "prep_time_min": 5,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 490, "protein_g": 28, "carbs_g": 68, "fat_g": 12},
+    "flavor_profile": ["spicy", "fiery", "garlicky", "tangy", "bold"],
+    "dietary_tags": ["vegan", "vegetarian", "high-protein", "quick", "gluten-free"],
+    "vibe_description": "Angry Italian tomato sauce loaded with toasted garlic and red pepper flakes tossed with protein-rich chickpea penne. Fast, spicy, and plant-powered.",
+    "ingredients": [
+      "200g chickpea penne pasta",
+      "400g crushed San Marzano tomatoes",
+      "5 cloves garlic, thinly sliced",
+      "1.5 tsp crushed red chili flakes",
+      "2 tbsp extra virgin olive oil",
+      "Fresh basil leaves and salt"
+    ],
+    "steps": [
+      "Boil chickpea pasta until al dente.",
+      "Gently sizzle sliced garlic and red chili flakes in olive oil for 1 minute until fragrant.",
+      "Add crushed tomatoes and salt; simmer 10 minutes until bright and thickened.",
+      "Toss pasta with the fiery sauce and fresh torn basil."
+    ]
+  },
+  {
+    "id": "turkish_cilbir_poached_eggs",
+    "name": "Turkish Cilbir (Garlic Yogurt & Chili Butter Eggs)",
+    "cuisine": "Turkish",
+    "prep_time_min": 5,
+    "cook_time_min": 10,
+    "servings": 2,
+    "difficulty": "Medium",
+    "nutrition": {"calories": 410, "protein_g": 26, "carbs_g": 14, "fat_g": 28},
+    "flavor_profile": ["tangy", "creamy", "spicy", "garlicky", "savory"],
+    "dietary_tags": ["vegetarian", "high-protein", "low-carb", "quick"],
+    "vibe_description": "Silky poached eggs nestled on cool garlicky Greek yogurt and drizzled with sizzling Aleppo pepper butter. A restaurant-worthy 15-minute brunch.",
+    "ingredients": [
+      "4 large eggs",
+      "1 cup thick Greek yogurt",
+      "1 clove garlic, finely grated",
+      "2 tbsp unsalted butter",
+      "1.5 tsp Aleppo pepper or paprika + chili flakes",
+      "Fresh dill and crusty bread for dipping"
+    ],
+    "steps": [
+      "Mix Greek yogurt with grated garlic and salt; spread onto two shallow bowls.",
+      "Poach eggs in gently simmering water with a splash of vinegar for 3 minutes.",
+      "Melt butter until foaming and stir in Aleppo pepper.",
+      "Place poached eggs over yogurt, drizzle with sizzling chili butter, and garnish with dill."
+    ]
+  },
+  {
+    "id": "loaded_beef_cheeseburger_mac",
+    "name": "High-Protein Beef Cheeseburger Mac",
+    "cuisine": "American",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 780, "protein_g": 52, "carbs_g": 68, "fat_g": 32},
+    "flavor_profile": ["cheesy", "savory", "rich", "comforting", "hearty"],
+    "dietary_tags": ["calorie-dense", "high-protein", "comfort-food", "bulking", "halal"],
+    "vibe_description": "A one-pot, ultra-cheesy comfort dish combining lean ground beef, macaroni, sharp cheddar, and smoky mustard sauce. Built for big appetites and high protein targets.",
+    "ingredients": [
+      "500g lean ground beef",
+      "250g elbow macaroni",
+      "1.5 cups sharp cheddar cheese, shredded",
+      "2 cups beef broth",
+      "1/2 cup milk",
+      "2 tbsp tomato paste",
+      "1 tbsp Dijon mustard",
+      "1 tsp smoked paprika and 1 tsp garlic powder"
+    ],
+    "steps": [
+      "Brown ground beef with smoked paprika, garlic powder, salt, and pepper.",
+      "Stir in tomato paste, Dijon mustard, beef broth, milk, and uncooked macaroni.",
+      "Cover and simmer 12 minutes until pasta is tender and liquid is mostly absorbed.",
+      "Turn off heat and stir in shredded cheddar until melted and velvety."
+    ]
+  },
+  {
+    "id": "green_goddess_edamame_salad",
+    "name": "Crunchy Green Edamame & Avocado Power Salad",
+    "cuisine": "Asian-Fusion",
+    "prep_time_min": 12,
+    "cook_time_min": 0,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 370, "protein_g": 21, "carbs_g": 26, "fat_g": 21},
+    "flavor_profile": ["fresh", "crunchy", "zesty", "light", "nutty"],
+    "dietary_tags": ["vegan", "vegetarian", "gluten-free", "light", "quick", "no-cook"],
+    "vibe_description": "Crisp shredded cabbage, shelled edamame, creamy avocado, and toasted almonds tossed in a zesty ginger-sesame lime dressing. Light, refreshing, and energizing.",
+    "ingredients": [
+      "1.5 cups shelled cooked edamame",
+      "2 cups shredded napa cabbage",
+      "1 ripe avocado, diced",
+      "1/3 cup sliced toasted almonds",
+      "1 tbsp toasted sesame oil",
+      "1 tbsp soy sauce",
+      "Juice of 1 lime and 1 tsp grated ginger"
+    ],
+    "steps": [
+      "Whisk sesame oil, soy sauce, lime juice, and grated ginger into a bright dressing.",
+      "Toss cabbage, edamame, avocado, and toasted almonds in a large bowl.",
+      "Drizzle with dressing right before serving so it stays crunchy."
+    ]
+  },
+  {
+    "id": "lahori_chana_masala",
+    "name": "Lahori Spiced Chana Masala",
+    "cuisine": "Pakistani",
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "servings": 4,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 360, "protein_g": 15, "carbs_g": 52, "fat_g": 10},
+    "flavor_profile": ["spicy", "tangy", "aromatic", "earthy", "bold"],
+    "dietary_tags": ["vegan", "vegetarian", "gluten-free", "budget-friendly"],
+    "vibe_description": "Rich, deeply spiced chickpeas simmered in caramelized onions, tomatoes, amchur (dried mango), and black cardamom. Punchy, tangy, and comforting.",
+    "ingredients": [
+      "2 cans (800g total) chickpeas, drained",
+      "2 onions, finely chopped",
+      "2 tomatoes, pureed",
+      "1 tbsp ginger-garlic paste",
+      "1.5 tsp coriander powder and 1 tsp cumin",
+      "1 tsp red chili powder and 1/2 tsp amchur (mango powder)",
+      "2 tbsp cooking oil",
+      "Fresh cilantro and green chilies"
+    ],
+    "steps": [
+      "Caramelize chopped onions in oil for 8 minutes until deep golden brown.",
+      "Add ginger-garlic paste and spices; cook 1 minute, then pour in pureed tomatoes.",
+      "Cook masala until oil separates, then add chickpeas and 1 cup water.",
+      "Simmer 12 minutes, lightly mashing a few chickpeas for thickness, and garnish with cilantro."
+    ]
+  },
+  {
+    "id": "grilled_halloumi_harissa_bowl",
+    "name": "Sizzling Harissa Grilled Halloumi & Couscous",
+    "cuisine": "North African",
+    "prep_time_min": 10,
+    "cook_time_min": 12,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 580, "protein_g": 27, "carbs_g": 46, "fat_g": 31},
+    "flavor_profile": ["spicy", "salty", "smoky", "zesty", "sizzling"],
+    "dietary_tags": ["vegetarian", "quick"],
+    "vibe_description": "Squeaky golden-seared halloumi slices glazed with smoky rose harissa over lemon-herb couscous. Salty, fiery, and ready in 20 minutes.",
+    "ingredients": [
+      "225g halloumi cheese, sliced thick",
+      "2 tbsp spicy harissa paste",
+      "1 tsp honey",
+      "1 cup couscous",
+      "1 cup roasted zucchini and bell peppers",
+      "Juice of 1/2 lemon and fresh mint"
+    ],
+    "steps": [
+      "Steep couscous in 1 cup boiling salted water for 5 minutes; fluff with lemon juice and mint.",
+      "Pan-sear halloumi slices in a dry non-stick skillet for 2 minutes per side until golden crusted.",
+      "Brush sizzling halloumi with harissa mixed with honey.",
+      "Serve over herby couscous alongside roasted vegetables."
+    ]
+  },
+  {
+    "id": "greek_chicken_tzatziki_gyro",
+    "name": "High-Protein Greek Chicken Gyro Bowl",
+    "cuisine": "Greek",
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 520, "protein_g": 47, "carbs_g": 44, "fat_g": 16},
+    "flavor_profile": ["herby", "zesty", "fresh", "savory", "tangy"],
+    "dietary_tags": ["high-protein", "halal", "meal-prep"],
+    "vibe_description": "Lemon-oregano grilled chicken served with cool cucumber-dill tzatziki, warm pita, and crisp tomatoes. Fresh, clean, and loaded with 47g protein.",
+    "ingredients": [
+      "400g chicken thighs or breasts, sliced",
+      "2 tbsp olive oil, juice of 1 lemon, 2 tsp dried oregano",
+      "1/2 cup Greek yogurt",
+      "1/2 cucumber, grated and squeezed dry",
+      "1 clove garlic and 1 tbsp fresh dill",
+      "2 whole-wheat pita breads",
+      "Cherry tomatoes and red onion"
+    ],
+    "steps": [
+      "Marinate chicken with olive oil, lemon juice, oregano, garlic, salt, and pepper for 15 minutes.",
+      "Mix Greek yogurt, squeezed cucumber, garlic, dill, and lemon into cool tzatziki.",
+      "Sear chicken in a hot skillet for 6-8 minutes until browned.",
+      "Serve with warm pita, fresh tomatoes, red onion, and generous tzatziki."
+    ]
+  },
+  {
+    "id": "avocado_egg_bagel_smash",
+    "name": "Calorie-Packed Smoked Salmon & Avocado Bagel",
+    "cuisine": "American",
+    "prep_time_min": 8,
+    "cook_time_min": 4,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 720, "protein_g": 36, "carbs_g": 62, "fat_g": 36},
+    "flavor_profile": ["savory", "creamy", "smoky", "rich"],
+    "dietary_tags": ["calorie-dense", "high-protein", "quick"],
+    "vibe_description": "Toasted everything bagel layered with cream cheese, smashed avocado, smoked salmon, and a runny fried egg. Nutrient-rich, calorie-dense, and deeply satisfying.",
+    "ingredients": [
+      "1 everything bagel, halved and toasted",
+      "2 tbsp cream cheese",
+      "1/2 ripe avocado, mashed",
+      "100g smoked salmon",
+      "1 large egg, fried sunny-side up",
+      "1 tsp capers and cracked black pepper"
+    ],
+    "steps": [
+      "Toast the bagel until crisp.",
+      "Spread cream cheese on the bottom half and mashed avocado on the top.",
+      "Layer smoked salmon, capers, and a freshly fried egg; finish with black pepper."
+    ]
+  },
+  {
+    "id": "spicy_vindaloo_beef_curry",
+    "name": "Goan Fiery Beef Vindaloo",
+    "cuisine": "Indian",
+    "prep_time_min": 20,
+    "cook_time_min": 50,
+    "servings": 4,
+    "difficulty": "Hard",
+    "nutrition": {"calories": 520, "protein_g": 43, "carbs_g": 16, "fat_g": 31},
+    "flavor_profile": ["fiery", "spicy", "tangy", "vinegary", "bold", "intense"],
+    "dietary_tags": ["high-protein", "gluten-free", "dairy-free", "halal"],
+    "vibe_description": "One of the boldest, most fiery curries around — slow-simmered beef infused with Kashmiri chilies, cider vinegar, garlic, cinnamon, and cloves for serious heat seekers.",
+    "ingredients": [
+      "800g beef chuck, cubed",
+      "10 dried Kashmiri red chilies, soaked",
+      "3 tbsp apple cider vinegar",
+      "8 cloves garlic and 2-inch ginger",
+      "1 tsp cumin seeds, 1 tsp mustard seeds, 1 cinnamon stick",
+      "2 onions, thinly sliced",
+      "3 tbsp oil and 1 tsp brown sugar"
+    ],
+    "steps": [
+      "Blend soaked chilies, vinegar, garlic, ginger, cumin, and mustard seeds into a fiery paste.",
+      "Marinate beef cubes in the paste for at least 30 minutes.",
+      "Brown sliced onions in oil, add marinated beef and cinnamon stick, and sear 6 minutes.",
+      "Add 1.5 cups water, cover, and simmer 45-50 minutes until beef is fork-tender and sauce is thick."
+    ]
+  },
+  {
+    "id": "shrimp_garlic_zoodles",
+    "name": "15-Minute Lemon Garlic Shrimp & Zucchini Noodles",
+    "cuisine": "Mediterranean",
+    "prep_time_min": 8,
+    "cook_time_min": 7,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 290, "protein_g": 36, "carbs_g": 10, "fat_g": 12},
+    "flavor_profile": ["light", "garlicky", "zesty", "fresh"],
+    "dietary_tags": ["high-protein", "low-carb", "gluten-free", "light", "quick"],
+    "vibe_description": "Super light, ultra-low-calorie meal with juicy garlic-lemon shrimp tossed over crisp spiralized zucchini. Ideal for cutting or a clean 15-minute weeknight dinner.",
+    "ingredients": [
+      "450g large shrimp, peeled",
+      "3 medium zucchinis, spiralized",
+      "4 cloves garlic, minced",
+      "1.5 tbsp olive oil",
+      "Juice and zest of 1 lemon",
+      "1/2 tsp chili flakes and fresh parsley"
+    ],
+    "steps": [
+      "Sauté garlic and chili flakes in olive oil for 30 seconds.",
+      "Add shrimp and cook 3 minutes until pink and curled.",
+      "Toss in zucchini noodles, lemon juice, and zest for 2 minutes until just tender; garnish with parsley."
+    ]
+  },
+  {
+    "id": "peanut_satay_chicken_noodles",
+    "name": "Creamy Spicy Peanut Satay Chicken Noodles",
+    "cuisine": "Southeast Asian",
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 740, "protein_g": 44, "carbs_g": 74, "fat_g": 29},
+    "flavor_profile": ["nutty", "spicy", "creamy", "savory", "rich"],
+    "dietary_tags": ["calorie-dense", "high-protein", "dairy-free", "quick", "halal"],
+    "vibe_description": "Chewy noodles coated in a thick, spicy peanut-sriracha-lime sauce with seared chicken and crushed peanuts. High-calorie, high-protein, and bursting with bold flavor.",
+    "ingredients": [
+      "350g chicken breast, thinly sliced",
+      "200g rice or wheat noodles",
+      "3 tbsp creamy peanut butter",
+      "2 tbsp soy sauce",
+      "1.5 tbsp sriracha",
+      "Juice of 1 lime and 1 tbsp honey",
+      "1/4 cup warm water",
+      "Crushed roasted peanuts and shredded carrots"
+    ],
+    "steps": [
+      "Cook noodles according to package instructions.",
+      "Stir-fry sliced chicken until cooked through.",
+      "Whisk peanut butter, soy sauce, sriracha, lime juice, honey, and warm water into a silky sauce.",
+      "Toss noodles, chicken, and carrots in the spicy peanut sauce and top with crushed peanuts."
+    ]
+  },
+  {
+    "id": "crispy_buffalo_cauliflower_wraps",
+    "name": "Zesty Buffalo Roasted Cauliflower Wraps",
+    "cuisine": "American",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {"calories": 440, "protein_g": 16, "carbs_g": 56, "fat_g": 17},
+    "flavor_profile": ["spicy", "tangy", "crunchy", "zesty"],
+    "dietary_tags": ["vegetarian", "quick"],
+    "vibe_description": "Crisp roasted cauliflower florets tossed in tangy hot buffalo sauce and wrapped with cool ranch-yogurt slaw. A fiery, crunchy meatless dinner.",
+    "ingredients": [
+      "1 small head cauliflower, cut into bite-size florets",
+      "1/3 cup buffalo hot sauce",
+      "1 tbsp olive oil",
+      "1 tsp garlic powder",
+      "2 large whole-wheat wraps",
+      "1/3 cup Greek yogurt ranch dressing",
+      "1 cup shredded romaine lettuce"
+    ],
+    "steps": [
+      "Toss cauliflower florets with olive oil, garlic powder, and salt; roast at 220°C for 18 minutes until crisp.",
+      "Toss hot roasted cauliflower in buffalo hot sauce.",
+      "Fill wraps with shredded lettuce, spicy cauliflower, and cool yogurt ranch; roll and slice."
+    ]
+  }
+]

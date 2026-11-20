@@ -1,0 +1,86 @@
+{
+  "total_questions": 36,
+  "retrieval": {
+    "bm25": {
+      "recall@1": 0.8889,
+      "recall@3": 0.9722,
+      "mrr": 0.9259,
+      "by_category": {
+        "vibe_flavor": {
+          "recall@1": 0.8889,
+          "recall@3": 1.0,
+          "mrr": 0.9444
+        },
+        "nutrition_macro": {
+          "recall@1": 0.6667,
+          "recall@3": 0.8889,
+          "mrr": 0.7593
+        },
+        "recipe_detail": {
+          "recall@1": 1.0,
+          "recall@3": 1.0,
+          "mrr": 1.0
+        },
+        "dietary_quick": {
+          "recall@1": 1.0,
+          "recall@3": 1.0,
+          "mrr": 1.0
+        }
+      }
+    },
+    "dense": {
+      "recall@1": 0.6389,
+      "recall@3": 0.9167,
+      "mrr": 0.7593,
+      "by_category": {
+        "vibe_flavor": {
+          "recall@1": 0.5556,
+          "recall@3": 0.7778,
+          "mrr": 0.6481
+        },
+        "nutrition_macro": {
+          "recall@1": 0.5556,
+          "recall@3": 1.0,
+          "mrr": 0.7407
+        },
+        "recipe_detail": {
+          "recall@1": 0.8889,
+          "recall@3": 1.0,
+          "mrr": 0.9259
+        },
+        "dietary_quick": {
+          "recall@1": 0.5556,
+          "recall@3": 0.8889,
+          "mrr": 0.7222
+        }
+      }
+    },
+    "hybrid": {
+      "recall@1": 0.9167,
+      "recall@3": 0.9167,
+      "mrr": 0.9167,
+      "by_category": {
+        "vibe_flavor": {
+          "recall@1": 0.8889,
+          "recall@3": 0.8889,
+          "mrr": 0.8889
+        },
+        "nutrition_macro": {
+          "recall@1": 0.8889,
+          "recall@3": 0.8889,
+          "mrr": 0.8889
+        },
+        "recipe_detail": {
+          "recall@1": 1.0,
+          "recall@3": 1.0,
+          "mrr": 1.0
+        },
+        "dietary_quick": {
+          "recall@1": 0.8889,
+          "recall@3": 0.8889,
+          "mrr": 0.8889
+        }
+      }
+    }
+  }
+}
