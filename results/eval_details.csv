@@ -1,0 +1,109 @@
+id,category,mode,provider,token_f1,rouge_l,semantic_similarity,latency_sec
+q01,vibe_flavor,none,Groq (openai/gpt-oss-20b),0.1203,0.0651,0.4535,0.6469
+q02,vibe_flavor,none,Groq (openai/gpt-oss-20b),0.1498,0.0449,0.5371,0.8421
+q03,vibe_flavor,none,Groq (openai/gpt-oss-20b),0.2346,0.0838,0.6352,0.6183
+q04,vibe_flavor,none,Groq (openai/gpt-oss-20b),0.244,0.0683,0.5823,1.1068
+q05,vibe_flavor,none,Groq (openai/gpt-oss-20b),0.2318,0.0576,0.6361,1.1532
+q06,vibe_flavor,none,Groq (openai/gpt-oss-20b),0.1569,0.0909,0.3936,0.8664
+q07,vibe_flavor,none,Groq (openai/gpt-oss-20b),0.2991,0.0648,0.5095,1.036
+q08,vibe_flavor,none,Groq (openai/gpt-oss-20b),0.2678,0.0848,0.5447,0.9726
+q09,vibe_flavor,none,Groq (openai/gpt-oss-20b),0.2059,0.0753,0.5783,1.0479
+q10,nutrition_macro,none,Groq (openai/gpt-oss-20b),0.2045,0.0818,0.5803,0.9915
+q11,nutrition_macro,none,Groq (openai/gpt-oss-20b),0.1653,0.0676,0.4835,0.9028
+q12,nutrition_macro,none,Groq (openai/gpt-oss-20b),0.2915,0.1038,0.6666,1.0295
+q13,nutrition_macro,none,Groq (openai/gpt-oss-20b),0.2071,0.0769,0.6116,0.993
+q14,nutrition_macro,none,Groq (openai/gpt-oss-20b),0.1827,0.0511,0.4891,0.8115
+q15,nutrition_macro,none,Groq (openai/gpt-oss-20b),0.3081,0.113,0.754,0.9248
+q16,nutrition_macro,none,Groq (openai/gpt-oss-20b),0.2229,0.0504,0.5087,1.0703
+q17,nutrition_macro,none,fallback,0.0,0.0,0.1204,4.2623
+q18,nutrition_macro,none,Groq (openai/gpt-oss-20b),0.2275,0.0886,0.6022,1.0398
+q19,recipe_detail,none,fallback,0.0,0.0,-0.0018,4.2442
+q20,recipe_detail,none,Groq (openai/gpt-oss-20b),0.4972,0.3607,0.9339,0.6155
+q21,recipe_detail,none,Groq (openai/gpt-oss-20b),0.5568,0.4127,0.8684,0.697
+q22,recipe_detail,none,Groq (openai/gpt-oss-20b),0.3865,0.0873,0.6772,1.0608
+q23,recipe_detail,none,fallback,0.0,0.0,-0.0218,4.276
+q24,recipe_detail,none,Groq (openai/gpt-oss-20b),0.3601,0.177,0.6779,0.6761
+q25,recipe_detail,none,fallback,0.0,0.0,0.0185,4.2879
+q26,recipe_detail,none,Groq (openai/gpt-oss-20b),0.3364,0.1134,0.7768,0.914
+q27,recipe_detail,none,Groq (openai/gpt-oss-20b),0.4,0.1778,0.8249,0.712
+q28,dietary_quick,none,fallback,0.1796,0.1395,0.1396,4.2964
+q29,dietary_quick,none,Groq (openai/gpt-oss-20b),0.1091,0.0476,0.3648,0.9432
+q30,dietary_quick,none,fallback,0.0488,0.0488,0.1132,4.3037
+q31,dietary_quick,none,Groq (openai/gpt-oss-20b),0.2984,0.0733,0.6347,1.0048
+q32,dietary_quick,none,fallback,0.0,0.0,0.0118,4.2753
+q33,dietary_quick,none,Groq (openai/gpt-oss-20b),0.184,0.058,0.5185,0.9642
+q34,dietary_quick,none,Groq (openai/gpt-oss-20b),0.232,0.0648,0.4948,0.9938
+q35,dietary_quick,none,fallback,0.0476,0.0476,0.1016,4.2763
+q36,dietary_quick,none,Groq (openai/gpt-oss-20b),0.1616,0.0498,0.56,0.7595
+q01,vibe_flavor,dense,fallback,0.26,0.0892,0.6894,4.2555
+q02,vibe_flavor,dense,fallback,0.27,0.1102,0.7051,4.283
+q03,vibe_flavor,dense,Groq (openai/gpt-oss-20b),0.2397,0.0837,0.6164,0.9487
+q04,vibe_flavor,dense,fallback,0.2626,0.1107,0.4972,4.2609
+q05,vibe_flavor,dense,fallback,0.3056,0.1577,0.741,4.2937
+q06,vibe_flavor,dense,fallback,0.1033,0.04,0.414,4.2666
+q07,vibe_flavor,dense,Groq (openai/gpt-oss-20b),0.2326,0.186,0.3496,0.6329
+q08,vibe_flavor,dense,fallback,0.2409,0.1012,0.7921,4.287
+q09,vibe_flavor,dense,fallback,0.298,0.1613,0.6838,4.3129
+q10,nutrition_macro,dense,Groq (openai/gpt-oss-20b),0.5421,0.248,0.8255,1.0805
+q11,nutrition_macro,dense,fallback,0.3253,0.1269,0.6494,4.272
+q12,nutrition_macro,dense,fallback,0.4384,0.1654,0.7806,4.286
+q13,nutrition_macro,dense,Groq (openai/gpt-oss-20b),0.2642,0.1047,0.6506,1.1261
+q14,nutrition_macro,dense,fallback,0.2407,0.0884,0.5088,4.2994
+q15,nutrition_macro,dense,fallback,0.3784,0.1569,0.7558,4.2895
+q16,nutrition_macro,dense,Groq (openai/gpt-oss-20b),0.3073,0.1421,0.7671,0.9145
+q17,nutrition_macro,dense,fallback,0.3146,0.1481,0.7732,4.2786
+q18,nutrition_macro,dense,fallback,0.3307,0.1405,0.6946,4.2904
+q19,recipe_detail,dense,fallback,0.4712,0.2264,0.6372,4.2853
+q20,recipe_detail,dense,Groq (openai/gpt-oss-20b),0.564,0.3902,0.9105,0.5853
+q21,recipe_detail,dense,fallback,0.3686,0.1044,0.491,4.2409
+q22,recipe_detail,dense,fallback,0.3429,0.1606,0.5288,4.3258
+q23,recipe_detail,dense,Groq (openai/gpt-oss-20b),0.3901,0.1493,0.8092,0.9995
+q24,recipe_detail,dense,fallback,0.2681,0.0816,0.5211,4.2806
+q25,recipe_detail,dense,fallback,0.4377,0.1984,0.7316,4.3161
+q26,recipe_detail,dense,Groq (openai/gpt-oss-20b),0.4491,0.2166,0.6927,1.0579
+q27,recipe_detail,dense,fallback,0.2846,0.072,0.5701,4.2787
+q28,dietary_quick,dense,fallback,0.1531,0.0588,0.5952,4.2751
+q29,dietary_quick,dense,Groq (openai/gpt-oss-20b),0.3818,0.1096,0.7969,1.2036
+q30,dietary_quick,dense,fallback,0.1245,0.0327,0.4456,4.2708
+q31,dietary_quick,dense,fallback,0.2639,0.1388,0.6903,4.242
+q32,dietary_quick,dense,fallback,0.2808,0.0855,0.672,4.2953
+q33,dietary_quick,dense,Groq (openai/gpt-oss-20b),0.4204,0.2036,0.8577,0.9647
+q34,dietary_quick,dense,fallback,0.3547,0.1322,0.6987,4.2659
+q35,dietary_quick,dense,fallback,0.2107,0.0756,0.6753,4.2682
+q36,dietary_quick,dense,Groq (openai/gpt-oss-20b),0.2953,0.1048,0.7753,1.0013
+q01,vibe_flavor,hybrid,fallback,0.26,0.1264,0.758,4.2844
+q02,vibe_flavor,hybrid,fallback,0.2586,0.1162,0.7051,4.2931
+q03,vibe_flavor,hybrid,Groq (openai/gpt-oss-20b),0.2138,0.0952,0.6084,1.0429
+q04,vibe_flavor,hybrid,fallback,0.2666,0.1365,0.6539,4.323
+q05,vibe_flavor,hybrid,fallback,0.3123,0.1545,0.7321,4.2851
+q06,vibe_flavor,hybrid,fallback,0.1172,0.0325,0.3788,4.5604
+q07,vibe_flavor,hybrid,Groq (openai/gpt-oss-20b),0.3682,0.1333,0.8346,1.1244
+q08,vibe_flavor,hybrid,fallback,0.2632,0.1107,0.7057,4.2532
+q09,vibe_flavor,hybrid,fallback,0.26,0.1639,0.6635,4.2833
+q10,nutrition_macro,hybrid,Groq (openai/gpt-oss-20b),0.528,0.2151,0.7694,1.0344
+q11,nutrition_macro,hybrid,fallback,0.2905,0.1199,0.7137,4.2908
+q12,nutrition_macro,hybrid,fallback,0.4384,0.1654,0.7806,4.2826
+q13,nutrition_macro,hybrid,fallback,0.3593,0.1245,0.8482,4.2758
+q14,nutrition_macro,hybrid,Groq (openai/gpt-oss-20b),0.2873,0.135,0.7485,0.9753
+q15,nutrition_macro,hybrid,fallback,0.3809,0.1556,0.7558,4.2713
+q16,nutrition_macro,hybrid,fallback,0.1652,0.0496,0.5036,4.28
+q17,nutrition_macro,hybrid,Groq (openai/gpt-oss-20b),0.4255,0.1829,0.8346,0.9439
+q18,nutrition_macro,hybrid,fallback,0.3257,0.1411,0.7102,4.2646
+q19,recipe_detail,hybrid,fallback,0.4624,0.2344,0.6495,4.2784
+q20,recipe_detail,hybrid,fallback,0.1571,0.0625,0.5123,4.252
+q21,recipe_detail,hybrid,fallback,0.3555,0.12,0.6941,4.2809
+q22,recipe_detail,hybrid,fallback,0.3429,0.1606,0.5288,4.2981
+q23,recipe_detail,hybrid,fallback,0.4514,0.1646,0.5598,4.2692
+q24,recipe_detail,hybrid,fallback,0.2773,0.0913,0.5211,4.2829
+q25,recipe_detail,hybrid,fallback,0.4377,0.1984,0.7316,4.317
+q26,recipe_detail,hybrid,fallback,0.3966,0.1439,0.5975,4.2901
+q27,recipe_detail,hybrid,fallback,0.3048,0.0763,0.5437,4.2642
+q28,dietary_quick,hybrid,fallback,0.1571,0.0669,0.5988,4.2986
+q29,dietary_quick,hybrid,fallback,0.1439,0.0484,0.3615,4.2768
+q30,dietary_quick,hybrid,fallback,0.2803,0.0909,0.6929,4.2715
+q31,dietary_quick,hybrid,fallback,0.2639,0.1388,0.6025,4.2605
+q32,dietary_quick,hybrid,fallback,0.2785,0.0826,0.6819,4.2544
+q33,dietary_quick,hybrid,fallback,0.2307,0.1044,0.6388,4.2846
+q34,dietary_quick,hybrid,fallback,0.3547,0.1322,0.6624,4.2813
+q35,dietary_quick,hybrid,fallback,0.2238,0.0759,0.6485,4.2578
+q36,dietary_quick,hybrid,fallback,0.2156,0.0766,0.565,4.2444

@@ -82,5 +82,25 @@
         }
       }
     }
+  },
+  "generation": {
+    "none": {
+      "avg_token_f1": 0.2088,
+      "avg_rouge_l": 0.0869,
+      "avg_semantic_similarity": 0.4828,
+      "avg_latency_sec": 1.656
+    },
+    "dense": {
+      "avg_token_f1": 0.3171,
+      "avg_rouge_l": 0.1362,
+      "avg_semantic_similarity": 0.6665,
+      "avg_latency_sec": 3.2649
+    },
+    "hybrid": {
+      "avg_token_f1": 0.3015,
+      "avg_rouge_l": 0.123,
+      "avg_semantic_similarity": 0.6527,
+      "avg_latency_sec": 3.8342
+    }
   }
 }

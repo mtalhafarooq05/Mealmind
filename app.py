@@ -248,4 +248,4 @@ with gr.Blocks(title="MealMind — Hybrid Culinary & Nutrition RAG") as demo:
 
 
 if __name__ == "__main__":
-    demo.launch(theme=gr.themes.Soft())
+    demo.launch(theme=gr.themes.Soft(), share=True)
