@@ -128,6 +128,21 @@ It builds a global Document Frequency table across all 100 recipes:
    - **Embeddings (ChromaDB) + BM25** handle fuzzy cravings and meaning (*"sizzle my tastebuds"*, *"cozy comfort"*), which `if` statements cannot do.
    - **JSON integers** handle exact math (`<= 10 min`, `>= 50g protein`), which embeddings cannot do.
 
+### Offline vs. Online Pipeline (Architecture Diagram)
+- **OFFLINE INDEXING (Runs once at startup):** `recipes.json` (100 recipes) → `recipe_to_document()` (adds `Macro Profile`) → splits into **ChromaDB** (`all-MiniLM-L6-v2` 384-D vectors) and **BM25Okapi** (tokenized words).
+- **ONLINE QUERY PIPELINE (Runs live per query):** `User Query` → `NL Constraint Parser` + `R: Dual Retrieval` (ChromaDB + BM25) → `RRF Fusion (k=60) + Intent Boost` → `A: Augmentation` (injects Top-3 into prompt) → `G: Groq LLM` (`openai/gpt-oss-20b`).
+
+### What is RRF (Reciprocal Rank Fusion)?
+- **Rank:** Ignores incompatible raw scores (BM25 `~6.3` vs. Cosine `~0.52`) and uses only list position (`#1, #2, #3...`).
+- **Reciprocal:** Uses $\frac{1}{60 + \text{rank}}$ (`#1` = `0.01639`, `#3` = `0.01587`, `#20` = `0.01250`), smoothed by `k=60`.
+- **Fusion:** Adds `0.5 * rrf_dense + 0.5 * rrf_bm25 + intent_bonus`.
+  - *Example:* **Bulk Shake** (#1 Dense, #3 BM25 → `0.01613`) beats **Salmon Pasta** (#1 BM25, #12 Dense → `0.01514`) because Bulk Shake ranks high in **both**.
+
+### What is "NL Intent" & the "Boost" (`constraint_bonus`)?
+- **NL Intent:** Structured rules extracted from Natural Language by `extract_query_constraints()` (e.g., `"at least 45g protein"` → `min_protein = 45`).
+- **The Boost:** Python checks each recipe's **real JSON numbers & tags** against those rules and adds a small score boost (`+0.001` to `+0.002`) so exact matches beat near-misses in RRF without hijacking the topic:
+  - *Example:* On *"chicken meal with at least 45g protein"*, **Butter Chicken** (`42g`, RRF `0.0160`) gets `+0.0000` (`0.0160`), while **Peri-Peri Chicken Bowl** (`52g`, RRF `0.0158`) gets `+0.0018` (**`0.0176`**) → Peri-Peri wins **#1**.
+
 ### 1-Paragraph Viva Summary (Say This!)
 > *"First, we verbalize each JSON recipe by adding a `Macro Profile` text line. That text goes two places: into `all-MiniLM-L6-v2` to store 384-D vectors in **ChromaDB** (for semantic search), and into `BM25Okapi` as tokenized words (for exact keyword search — BM25 does not take vectors). At query time, both indexers rank all 100 recipes, **RRF + our regex constraint parser** fuses their ranks in Python to pick **one combined Top-3 list**, and we **augment** the prompt with those 3 recipes for the Groq LLM to generate a grounded answer."*
 
@@ -168,5 +183,7 @@ It builds a global Document Frequency table across all 100 recipes:
   - *A:* BM25 scores (`~4–7`) and cosine similarities (`0–1`) are on incompatible scales. RRF fuses their **ranks** cleanly using $\frac{1}{60 + \text{rank}}$.
 - **Q: How do you handle prompt injection in RAG?**
   - *A:* Indirect prompt injection occurs when untrusted external documents contain hidden instructions. MealMind uses a **static, curated local JSON corpus** (no untrusted user uploads or web scraping) and has no tool/write access, minimizing attack surface.
+- **Q: What is the Baseline model, and why didn't you include BM25-only in Stage 2 Generation?**
+  - *A:* The **Baseline** (`mode="none"`) is the **exact same LLM (`openai/gpt-oss-20b`)** with **no Retrieval and no Augmentation** — isolating whether RAG itself improves answers. We compare **No-RAG Baseline → Standard Vector RAG (Dense) → Hybrid RAG** as a clean 3-way ablation without spending another 45 API calls on BM25-only (whose retrieval is already measured in Stage 1).
 - **Q: What are the limitations & future improvements?**
-  - *A:* (1) Regex constraint parser handles common phrases but not complex negations (*"no nuts except almonds"*); (2) RAG adds ~1.6–2.2s latency; (3) Future work: Cross-Encoder reranking, PDF/recipe upload, and automatic allergen/serving-size scaling.
+  - *A:* (1) Regex constraint parser handles digits and ranges (`10-100 kcal`) with 0 ms latency, but not spelled-out words (`"under ten minutes"`) — avoiding a second LLM call that would double cost/latency; (2) RAG adds ~1.3s latency; (3) Future work: Cross-Encoder reranking, PDF/recipe upload, and automatic allergen/serving-size scaling.
