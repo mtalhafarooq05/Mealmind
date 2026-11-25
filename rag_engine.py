@@ -14,6 +14,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
+import chromadb
 import numpy as np
 import requests
 from dotenv import load_dotenv
@@ -23,6 +24,7 @@ from sentence_transformers import SentenceTransformer
 load_dotenv()
 
 DEFAULT_DATA_PATH = Path(__file__).parent / "data" / "recipes.json"
+DEFAULT_CHROMA_DIR = Path(__file__).parent / "data" / "chroma_db"
 
 
 @dataclass
@@ -207,6 +209,7 @@ class MealMindRAG:
     def __init__(
         self,
         data_path: Path | str = DEFAULT_DATA_PATH,
+        chroma_dir: Path | str = DEFAULT_CHROMA_DIR,
         embedding_model_name: str = "all-MiniLM-L6-v2",
         groq_model: Optional[str] = None,
     ):
@@ -215,10 +218,44 @@ class MealMindRAG:
             self.recipes: List[Dict[str, Any]] = json.load(f)
 
         self.documents: List[str] = [recipe_to_document(r) for r in self.recipes]
+        self.id_to_idx: Dict[str, int] = {r["id"]: i for i, r in enumerate(self.recipes)}
         self.embedder = SentenceTransformer(embedding_model_name)
-        self.doc_embeddings: np.ndarray = self.embedder.encode(
-            self.documents, convert_to_numpy=True, normalize_embeddings=True
+
+        # Persistent ChromaDB Vector Store (cosine similarity space)
+        self.chroma_client = chromadb.PersistentClient(path=str(chroma_dir))
+        self.collection = self.chroma_client.get_or_create_collection(
+            name="mealmind_recipes",
+            metadata={"hnsw:space": "cosine"},
         )
+        if self.collection.count() != len(self.recipes):
+            # Rebuild index cleanly if dataset size changed
+            try:
+                self.chroma_client.delete_collection("mealmind_recipes")
+            except Exception:
+                pass
+            self.collection = self.chroma_client.get_or_create_collection(
+                name="mealmind_recipes",
+                metadata={"hnsw:space": "cosine"},
+            )
+            embeddings = self.embedder.encode(
+                self.documents, convert_to_numpy=True, normalize_embeddings=True
+            ).tolist()
+            self.collection.add(
+                ids=[r["id"] for r in self.recipes],
+                embeddings=embeddings,
+                documents=self.documents,
+                metadatas=[
+                    {
+                        "name": r["name"],
+                        "cuisine": r["cuisine"],
+                        "calories": int(r["nutrition"]["calories"]),
+                        "protein_g": int(r["nutrition"]["protein_g"]),
+                        "total_time_min": int(r["prep_time_min"] + r["cook_time_min"]),
+                    }
+                    for r in self.recipes
+                ],
+            )
+
         self.bm25 = BM25Okapi([tokenize(doc) for doc in self.documents])
         self.llm = LLMClient(model=groq_model)
 
@@ -267,9 +304,17 @@ class MealMindRAG:
         if mode == "none":
             return []
 
-        # Dense cosine similarity
-        q_emb = self.embedder.encode(query, convert_to_numpy=True, normalize_embeddings=True)
-        dense_scores = self.doc_embeddings @ q_emb
+        # Dense cosine similarity via ChromaDB vector store
+        q_emb = self.embedder.encode(query, convert_to_numpy=True, normalize_embeddings=True).tolist()
+        chroma_res = self.collection.query(
+            query_embeddings=[q_emb],
+            n_results=len(self.recipes),
+            include=["distances"],
+        )
+        dense_scores = np.zeros(len(self.recipes), dtype=float)
+        for rid, dist in zip(chroma_res["ids"][0], chroma_res["distances"][0]):
+            if rid in self.id_to_idx:
+                dense_scores[self.id_to_idx[rid]] = 1.0 - float(dist)
 
         # Sparse BM25 scores
         q_tokens = tokenize(query)

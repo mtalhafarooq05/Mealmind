@@ -243,7 +243,7 @@ with gr.Blocks(title="MealMind — Hybrid Culinary & Nutrition RAG") as demo:
         with gr.Row():
             gr.Dataframe(value=eval_df, interactive=False)
             gr.Plot(value=eval_fig)
-        gr.Markdown("### Knowledge Base (32 Curated Recipes)")
+        gr.Markdown(f"### Knowledge Base ({len(rag.recipes)} Curated Recipes)")
         gr.Dataframe(value=build_recipe_table(), interactive=False)
 
 

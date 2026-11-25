@@ -7,9 +7,26 @@
     "cook_time_min": 30,
     "servings": 4,
     "difficulty": "Medium",
-    "nutrition": {"calories": 480, "protein_g": 44, "carbs_g": 12, "fat_g": 28},
-    "flavor_profile": ["spicy", "fiery", "bold", "tangy", "aromatic", "sizzling"],
-    "dietary_tags": ["high-protein", "gluten-free", "low-carb", "halal"],
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 44,
+      "carbs_g": 12,
+      "fat_g": 28
+    },
+    "flavor_profile": [
+      "spicy",
+      "fiery",
+      "bold",
+      "tangy",
+      "aromatic",
+      "sizzling"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "low-carb",
+      "halal"
+    ],
     "vibe_description": "A fiery, sizzling wok-cooked chicken dish bursting with green chilies, crushed black pepper, ginger, and jammy tomatoes. Ideal when you want bold heat that wakes up your tastebuds.",
     "ingredients": [
       "1 kg bone-in chicken pieces",
@@ -39,9 +56,26 @@
     "cook_time_min": 12,
     "servings": 3,
     "difficulty": "Medium",
-    "nutrition": {"calories": 540, "protein_g": 46, "carbs_g": 22, "fat_g": 29},
-    "flavor_profile": ["fiery", "spicy", "numbing", "savory", "bold", "sizzling"],
-    "dietary_tags": ["high-protein", "quick", "dairy-free", "halal"],
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 46,
+      "carbs_g": 22,
+      "fat_g": 29
+    },
+    "flavor_profile": [
+      "fiery",
+      "spicy",
+      "numbing",
+      "savory",
+      "bold",
+      "sizzling"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "quick",
+      "dairy-free",
+      "halal"
+    ],
     "vibe_description": "An intense, mouth-tingling stir-fry with Szechuan peppercorns, dried red chilies, and crispy seared beef strips. Built for spice lovers who want their tastebuds sizzling.",
     "ingredients": [
       "600g flank steak, thinly sliced against the grain",
@@ -69,9 +103,25 @@
     "cook_time_min": 18,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 510, "protein_g": 52, "carbs_g": 38, "fat_g": 16},
-    "flavor_profile": ["spicy", "zesty", "smoky", "tangy", "bold"],
-    "dietary_tags": ["high-protein", "gluten-free", "dairy-free", "halal"],
+    "nutrition": {
+      "calories": 510,
+      "protein_g": 52,
+      "carbs_g": 38,
+      "fat_g": 16
+    },
+    "flavor_profile": [
+      "spicy",
+      "zesty",
+      "smoky",
+      "tangy",
+      "bold"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "dairy-free",
+      "halal"
+    ],
     "vibe_description": "Smoky, zesty, and punchy peri-peri marinated chicken breast paired with spiced rice. High in lean protein with a bright lemon-chili kick.",
     "ingredients": [
       "400g boneless skinless chicken breasts",
@@ -99,9 +149,26 @@
     "cook_time_min": 7,
     "servings": 1,
     "difficulty": "Easy",
-    "nutrition": {"calories": 890, "protein_g": 48, "carbs_g": 98, "fat_g": 34},
-    "flavor_profile": ["sweet", "nutty", "creamy", "rich", "comforting"],
-    "dietary_tags": ["calorie-dense", "high-protein", "vegetarian", "quick", "bulking"],
+    "nutrition": {
+      "calories": 890,
+      "protein_g": 48,
+      "carbs_g": 98,
+      "fat_g": 34
+    },
+    "flavor_profile": [
+      "sweet",
+      "nutty",
+      "creamy",
+      "rich",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "vegetarian",
+      "quick",
+      "bulking"
+    ],
     "vibe_description": "A thick, creamy, ultra calorie-dense breakfast bowl loaded with oats, whole milk, peanut butter, whey protein, and banana. Designed for hardgainers and clean bulking.",
     "ingredients": [
       "1 cup rolled oats",
@@ -127,9 +194,26 @@
     "cook_time_min": 15,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 920, "protein_g": 54, "carbs_g": 82, "fat_g": 42},
-    "flavor_profile": ["savory", "smoky", "creamy", "zesty", "hearty"],
-    "dietary_tags": ["calorie-dense", "high-protein", "gluten-free", "bulking", "halal"],
+    "nutrition": {
+      "calories": 920,
+      "protein_g": 54,
+      "carbs_g": 82,
+      "fat_g": 42
+    },
+    "flavor_profile": [
+      "savory",
+      "smoky",
+      "creamy",
+      "zesty",
+      "hearty"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "gluten-free",
+      "bulking",
+      "halal"
+    ],
     "vibe_description": "A massive, calorie-dense power bowl combining seared cumin-lime steak, black beans, cilantro rice, cheddar cheese, and a whole avocado for serious energy and muscle recovery.",
     "ingredients": [
       "450g sirloin steak, cubed",
@@ -157,9 +241,24 @@
     "cook_time_min": 20,
     "servings": 2,
     "difficulty": "Medium",
-    "nutrition": {"calories": 860, "protein_g": 45, "carbs_g": 72, "fat_g": 43},
-    "flavor_profile": ["creamy", "rich", "savory", "garlicky", "comforting"],
-    "dietary_tags": ["calorie-dense", "high-protein", "comfort-food"],
+    "nutrition": {
+      "calories": 860,
+      "protein_g": 45,
+      "carbs_g": 72,
+      "fat_g": 43
+    },
+    "flavor_profile": [
+      "creamy",
+      "rich",
+      "savory",
+      "garlicky",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "comfort-food"
+    ],
     "vibe_description": "Velvety garlic parmesan cream sauce clinging to fettuccine with pan-seared salmon, sun-dried tomatoes, and wilted spinach. Rich, indulgent, and high in omega-3s and calories.",
     "ingredients": [
       "350g salmon fillets",
@@ -186,9 +285,24 @@
     "cook_time_min": 15,
     "servings": 3,
     "difficulty": "Easy",
-    "nutrition": {"calories": 340, "protein_g": 48, "carbs_g": 9, "fat_g": 12},
-    "flavor_profile": ["smoky", "spicy", "tangy", "aromatic"],
-    "dietary_tags": ["high-protein", "low-carb", "gluten-free", "halal"],
+    "nutrition": {
+      "calories": 340,
+      "protein_g": 48,
+      "carbs_g": 9,
+      "fat_g": 12
+    },
+    "flavor_profile": [
+      "smoky",
+      "spicy",
+      "tangy",
+      "aromatic"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "low-carb",
+      "gluten-free",
+      "halal"
+    ],
     "vibe_description": "Juicy, smoky yogurt-marinated chicken cubes charred to perfection with garam masala and Kashmiri chili. Ultra lean protein for cutting or high-protein meal prep.",
     "ingredients": [
       "600g chicken breast, cut into chunks",
@@ -214,9 +328,25 @@
     "cook_time_min": 15,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 460, "protein_g": 26, "carbs_g": 54, "fat_g": 15},
-    "flavor_profile": ["spicy", "sweet", "umami", "sticky", "bold"],
-    "dietary_tags": ["vegan", "vegetarian", "dairy-free", "high-protein"],
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 26,
+      "carbs_g": 54,
+      "fat_g": 15
+    },
+    "flavor_profile": [
+      "spicy",
+      "sweet",
+      "umami",
+      "sticky",
+      "bold"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "high-protein"
+    ],
     "vibe_description": "Crunchy pan-fried tofu cubes coated in a glossy, spicy-sweet Korean gochujang glaze over steamed rice. A bold, plant-based flavor bomb.",
     "ingredients": [
       "400g extra-firm tofu, pressed and cubed",
@@ -244,9 +374,25 @@
     "cook_time_min": 8,
     "servings": 1,
     "difficulty": "Easy",
-    "nutrition": {"calories": 380, "protein_g": 45, "carbs_g": 11, "fat_g": 16},
-    "flavor_profile": ["savory", "creamy", "light", "herby"],
-    "dietary_tags": ["high-protein", "vegetarian", "gluten-free", "low-carb", "quick"],
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 45,
+      "carbs_g": 11,
+      "fat_g": 16
+    },
+    "flavor_profile": [
+      "savory",
+      "creamy",
+      "light",
+      "herby"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "vegetarian",
+      "gluten-free",
+      "low-carb",
+      "quick"
+    ],
     "vibe_description": "Fluffy, velvety scrambled eggs boosted with cottage cheese and spinach. A 10-minute breakfast packing 45 grams of protein with minimal carbs.",
     "ingredients": [
       "3 whole eggs",
@@ -271,9 +417,25 @@
     "cook_time_min": 15,
     "servings": 3,
     "difficulty": "Easy",
-    "nutrition": {"calories": 440, "protein_g": 34, "carbs_g": 20, "fat_g": 25},
-    "flavor_profile": ["spicy", "aromatic", "creamy", "zesty", "fragrant"],
-    "dietary_tags": ["high-protein", "gluten-free", "dairy-free", "quick"],
+    "nutrition": {
+      "calories": 440,
+      "protein_g": 34,
+      "carbs_g": 20,
+      "fat_g": 25
+    },
+    "flavor_profile": [
+      "spicy",
+      "aromatic",
+      "creamy",
+      "zesty",
+      "fragrant"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "dairy-free",
+      "quick"
+    ],
     "vibe_description": "Fragrant coconut red curry simmered with lemongrass, Thai basil, bell peppers, and plump prawns. Balanced heat with rich tropical creaminess.",
     "ingredients": [
       "500g large prawns, peeled and deveined",
@@ -300,9 +462,25 @@
     "cook_time_min": 15,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 430, "protein_g": 18, "carbs_g": 58, "fat_g": 14},
-    "flavor_profile": ["fresh", "zesty", "tangy", "light", "herby"],
-    "dietary_tags": ["vegetarian", "gluten-free", "light", "meal-prep"],
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 18,
+      "carbs_g": 58,
+      "fat_g": 14
+    },
+    "flavor_profile": [
+      "fresh",
+      "zesty",
+      "tangy",
+      "light",
+      "herby"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "light",
+      "meal-prep"
+    ],
     "vibe_description": "Crisp, bright, and refreshing bowl of fluffy quinoa, roasted chickpeas, cucumber, feta, and lemon-oregano dressing. Perfect when you want something light and clean.",
     "ingredients": [
       "1 cup cooked quinoa",
@@ -328,9 +506,25 @@
     "cook_time_min": 25,
     "servings": 4,
     "difficulty": "Easy",
-    "nutrition": {"calories": 320, "protein_g": 19, "carbs_g": 46, "fat_g": 7},
-    "flavor_profile": ["comforting", "earthy", "garlicky", "spiced", "warm"],
-    "dietary_tags": ["vegan", "vegetarian", "gluten-free", "budget-friendly"],
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 19,
+      "carbs_g": 46,
+      "fat_g": 7
+    },
+    "flavor_profile": [
+      "comforting",
+      "earthy",
+      "garlicky",
+      "spiced",
+      "warm"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "budget-friendly"
+    ],
     "vibe_description": "Cozy, velvety red lentils finished with a sizzling tempering of toasted cumin, crispy garlic, and red chilies. Wholesome comfort food packed with plant protein and fiber.",
     "ingredients": [
       "1.5 cups red lentils (masoor dal), rinsed",
@@ -357,9 +551,25 @@
     "cook_time_min": 20,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 760, "protein_g": 50, "carbs_g": 48, "fat_g": 40},
-    "flavor_profile": ["savory", "garlicky", "buttery", "rich", "hearty"],
-    "dietary_tags": ["high-protein", "calorie-dense", "gluten-free", "halal"],
+    "nutrition": {
+      "calories": 760,
+      "protein_g": 50,
+      "carbs_g": 48,
+      "fat_g": 40
+    },
+    "flavor_profile": [
+      "savory",
+      "garlicky",
+      "buttery",
+      "rich",
+      "hearty"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "calorie-dense",
+      "gluten-free",
+      "halal"
+    ],
     "vibe_description": "Juicy seared sirloin cubes bathed in herb garlic butter alongside golden crispy baby potatoes. Hearty, protein-packed, and satisfying after a heavy workout.",
     "ingredients": [
       "500g sirloin steak, cut into 1-inch cubes",
@@ -384,9 +594,23 @@
     "cook_time_min": 12,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 520, "protein_g": 31, "carbs_g": 42, "fat_g": 24},
-    "flavor_profile": ["spicy", "savory", "tangy", "warm"],
-    "dietary_tags": ["vegetarian", "high-protein", "quick"],
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 31,
+      "carbs_g": 42,
+      "fat_g": 24
+    },
+    "flavor_profile": [
+      "spicy",
+      "savory",
+      "tangy",
+      "warm"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "high-protein",
+      "quick"
+    ],
     "vibe_description": "Crumbled paneer sautéed with onions, green chilies, tomatoes, and garam masala, rolled into warm whole-wheat wraps with mint chutney. Fast vegetarian protein.",
     "ingredients": [
       "250g fresh paneer, crumbled",
@@ -413,9 +637,24 @@
     "cook_time_min": 15,
     "servings": 2,
     "difficulty": "Medium",
-    "nutrition": {"calories": 590, "protein_g": 49, "carbs_g": 36, "fat_g": 26},
-    "flavor_profile": ["fiery", "spicy", "crunchy", "smoky", "bold", "sizzling"],
-    "dietary_tags": ["high-protein", "halal"],
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 49,
+      "carbs_g": 36,
+      "fat_g": 26
+    },
+    "flavor_profile": [
+      "fiery",
+      "spicy",
+      "crunchy",
+      "smoky",
+      "bold",
+      "sizzling"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "halal"
+    ],
     "vibe_description": "Ultra-crunchy chicken tenders brushed with a blazing cayenne-paprika hot oil glaze and served with tangy dill pickles. Serious crunch and tongue-tingling heat.",
     "ingredients": [
       "450g chicken tenderloins",
@@ -443,9 +682,27 @@
     "cook_time_min": 0,
     "servings": 1,
     "difficulty": "Easy",
-    "nutrition": {"calories": 1020, "protein_g": 55, "carbs_g": 108, "fat_g": 40},
-    "flavor_profile": ["sweet", "chocolaty", "nutty", "creamy", "rich"],
-    "dietary_tags": ["calorie-dense", "high-protein", "vegetarian", "quick", "bulking", "no-cook"],
+    "nutrition": {
+      "calories": 1020,
+      "protein_g": 55,
+      "carbs_g": 108,
+      "fat_g": 40
+    },
+    "flavor_profile": [
+      "sweet",
+      "chocolaty",
+      "nutty",
+      "creamy",
+      "rich"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "vegetarian",
+      "quick",
+      "bulking",
+      "no-cook"
+    ],
     "vibe_description": "A drinkable 1,000-calorie powerhouse shake with oats, banana, whole milk, peanut butter, cocoa, and whey protein. The easiest way to hit a calorie surplus in 5 minutes.",
     "ingredients": [
       "1.5 cups whole milk",
@@ -470,9 +727,24 @@
     "cook_time_min": 3,
     "servings": 1,
     "difficulty": "Easy",
-    "nutrition": {"calories": 470, "protein_g": 38, "carbs_g": 34, "fat_g": 20},
-    "flavor_profile": ["fresh", "zesty", "creamy", "savory", "light"],
-    "dietary_tags": ["high-protein", "quick", "dairy-free"],
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 38,
+      "carbs_g": 34,
+      "fat_g": 20
+    },
+    "flavor_profile": [
+      "fresh",
+      "zesty",
+      "creamy",
+      "savory",
+      "light"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "quick",
+      "dairy-free"
+    ],
     "vibe_description": "Crunchy toasted sourdough piled with smashed lemon-avocado and flaky tuna tossed in capers and black pepper. Ready in 10 minutes with 38g of clean protein.",
     "ingredients": [
       "1 can (140g) tuna in water, drained",
@@ -497,9 +769,26 @@
     "cook_time_min": 25,
     "servings": 4,
     "difficulty": "Medium",
-    "nutrition": {"calories": 640, "protein_g": 42, "carbs_g": 18, "fat_g": 44},
-    "flavor_profile": ["creamy", "rich", "buttery", "mildly-spiced", "comforting"],
-    "dietary_tags": ["high-protein", "calorie-dense", "gluten-free", "comfort-food", "halal"],
+    "nutrition": {
+      "calories": 640,
+      "protein_g": 42,
+      "carbs_g": 18,
+      "fat_g": 44
+    },
+    "flavor_profile": [
+      "creamy",
+      "rich",
+      "buttery",
+      "mildly-spiced",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "calorie-dense",
+      "gluten-free",
+      "comfort-food",
+      "halal"
+    ],
     "vibe_description": "Tender charred chicken simmered in a silky spiced tomato, butter, and cashew-cream gravy with fenugreek leaves. Ultimate cozy, rich comfort food.",
     "ingredients": [
       "700g boneless chicken thighs, cubed",
@@ -526,9 +815,24 @@
     "cook_time_min": 20,
     "servings": 3,
     "difficulty": "Easy",
-    "nutrition": {"calories": 420, "protein_g": 15, "carbs_g": 64, "fat_g": 12},
-    "flavor_profile": ["smoky", "spicy", "sweet", "zesty"],
-    "dietary_tags": ["vegan", "vegetarian", "dairy-free", "gluten-free"],
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 15,
+      "carbs_g": 64,
+      "fat_g": 12
+    },
+    "flavor_profile": [
+      "smoky",
+      "spicy",
+      "sweet",
+      "zesty"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "gluten-free"
+    ],
     "vibe_description": "Caramelized chipotle-roasted sweet potatoes paired with spiced black beans and tangy lime-cabbage slaw in warm corn tortillas.",
     "ingredients": [
       "2 medium sweet potatoes, diced small",
@@ -554,9 +858,23 @@
     "cook_time_min": 15,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 530, "protein_g": 41, "carbs_g": 32, "fat_g": 26},
-    "flavor_profile": ["sweet", "savory", "umami", "garlicky"],
-    "dietary_tags": ["high-protein", "dairy-free", "quick"],
+    "nutrition": {
+      "calories": 530,
+      "protein_g": 41,
+      "carbs_g": 32,
+      "fat_g": 26
+    },
+    "flavor_profile": [
+      "sweet",
+      "savory",
+      "umami",
+      "garlicky"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "dairy-free",
+      "quick"
+    ],
     "vibe_description": "Flaky caramelized salmon fillets glazed in glossy soy-honey-ginger sauce alongside crisp steamed broccoli. Balanced, clean, and ready in 25 minutes.",
     "ingredients": [
       "2 salmon fillets (180g each)",
@@ -582,9 +900,26 @@
     "cook_time_min": 15,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 490, "protein_g": 28, "carbs_g": 68, "fat_g": 12},
-    "flavor_profile": ["spicy", "fiery", "garlicky", "tangy", "bold"],
-    "dietary_tags": ["vegan", "vegetarian", "high-protein", "quick", "gluten-free"],
+    "nutrition": {
+      "calories": 490,
+      "protein_g": 28,
+      "carbs_g": 68,
+      "fat_g": 12
+    },
+    "flavor_profile": [
+      "spicy",
+      "fiery",
+      "garlicky",
+      "tangy",
+      "bold"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "high-protein",
+      "quick",
+      "gluten-free"
+    ],
     "vibe_description": "Angry Italian tomato sauce loaded with toasted garlic and red pepper flakes tossed with protein-rich chickpea penne. Fast, spicy, and plant-powered.",
     "ingredients": [
       "200g chickpea penne pasta",
@@ -609,9 +944,25 @@
     "cook_time_min": 10,
     "servings": 2,
     "difficulty": "Medium",
-    "nutrition": {"calories": 410, "protein_g": 26, "carbs_g": 14, "fat_g": 28},
-    "flavor_profile": ["tangy", "creamy", "spicy", "garlicky", "savory"],
-    "dietary_tags": ["vegetarian", "high-protein", "low-carb", "quick"],
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 26,
+      "carbs_g": 14,
+      "fat_g": 28
+    },
+    "flavor_profile": [
+      "tangy",
+      "creamy",
+      "spicy",
+      "garlicky",
+      "savory"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "high-protein",
+      "low-carb",
+      "quick"
+    ],
     "vibe_description": "Silky poached eggs nestled on cool garlicky Greek yogurt and drizzled with sizzling Aleppo pepper butter. A restaurant-worthy 15-minute brunch.",
     "ingredients": [
       "4 large eggs",
@@ -636,9 +987,26 @@
     "cook_time_min": 20,
     "servings": 3,
     "difficulty": "Easy",
-    "nutrition": {"calories": 780, "protein_g": 52, "carbs_g": 68, "fat_g": 32},
-    "flavor_profile": ["cheesy", "savory", "rich", "comforting", "hearty"],
-    "dietary_tags": ["calorie-dense", "high-protein", "comfort-food", "bulking", "halal"],
+    "nutrition": {
+      "calories": 780,
+      "protein_g": 52,
+      "carbs_g": 68,
+      "fat_g": 32
+    },
+    "flavor_profile": [
+      "cheesy",
+      "savory",
+      "rich",
+      "comforting",
+      "hearty"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "comfort-food",
+      "bulking",
+      "halal"
+    ],
     "vibe_description": "A one-pot, ultra-cheesy comfort dish combining lean ground beef, macaroni, sharp cheddar, and smoky mustard sauce. Built for big appetites and high protein targets.",
     "ingredients": [
       "500g lean ground beef",
@@ -665,9 +1033,27 @@
     "cook_time_min": 0,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 370, "protein_g": 21, "carbs_g": 26, "fat_g": 21},
-    "flavor_profile": ["fresh", "crunchy", "zesty", "light", "nutty"],
-    "dietary_tags": ["vegan", "vegetarian", "gluten-free", "light", "quick", "no-cook"],
+    "nutrition": {
+      "calories": 370,
+      "protein_g": 21,
+      "carbs_g": 26,
+      "fat_g": 21
+    },
+    "flavor_profile": [
+      "fresh",
+      "crunchy",
+      "zesty",
+      "light",
+      "nutty"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "light",
+      "quick",
+      "no-cook"
+    ],
     "vibe_description": "Crisp shredded cabbage, shelled edamame, creamy avocado, and toasted almonds tossed in a zesty ginger-sesame lime dressing. Light, refreshing, and energizing.",
     "ingredients": [
       "1.5 cups shelled cooked edamame",
@@ -692,9 +1078,25 @@
     "cook_time_min": 25,
     "servings": 4,
     "difficulty": "Easy",
-    "nutrition": {"calories": 360, "protein_g": 15, "carbs_g": 52, "fat_g": 10},
-    "flavor_profile": ["spicy", "tangy", "aromatic", "earthy", "bold"],
-    "dietary_tags": ["vegan", "vegetarian", "gluten-free", "budget-friendly"],
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 15,
+      "carbs_g": 52,
+      "fat_g": 10
+    },
+    "flavor_profile": [
+      "spicy",
+      "tangy",
+      "aromatic",
+      "earthy",
+      "bold"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "budget-friendly"
+    ],
     "vibe_description": "Rich, deeply spiced chickpeas simmered in caramelized onions, tomatoes, amchur (dried mango), and black cardamom. Punchy, tangy, and comforting.",
     "ingredients": [
       "2 cans (800g total) chickpeas, drained",
@@ -721,9 +1123,23 @@
     "cook_time_min": 12,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 580, "protein_g": 27, "carbs_g": 46, "fat_g": 31},
-    "flavor_profile": ["spicy", "salty", "smoky", "zesty", "sizzling"],
-    "dietary_tags": ["vegetarian", "quick"],
+    "nutrition": {
+      "calories": 580,
+      "protein_g": 27,
+      "carbs_g": 46,
+      "fat_g": 31
+    },
+    "flavor_profile": [
+      "spicy",
+      "salty",
+      "smoky",
+      "zesty",
+      "sizzling"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "quick"
+    ],
     "vibe_description": "Squeaky golden-seared halloumi slices glazed with smoky rose harissa over lemon-herb couscous. Salty, fiery, and ready in 20 minutes.",
     "ingredients": [
       "225g halloumi cheese, sliced thick",
@@ -748,9 +1164,24 @@
     "cook_time_min": 15,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 520, "protein_g": 47, "carbs_g": 44, "fat_g": 16},
-    "flavor_profile": ["herby", "zesty", "fresh", "savory", "tangy"],
-    "dietary_tags": ["high-protein", "halal", "meal-prep"],
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 47,
+      "carbs_g": 44,
+      "fat_g": 16
+    },
+    "flavor_profile": [
+      "herby",
+      "zesty",
+      "fresh",
+      "savory",
+      "tangy"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "halal",
+      "meal-prep"
+    ],
     "vibe_description": "Lemon-oregano grilled chicken served with cool cucumber-dill tzatziki, warm pita, and crisp tomatoes. Fresh, clean, and loaded with 47g protein.",
     "ingredients": [
       "400g chicken thighs or breasts, sliced",
@@ -776,9 +1207,23 @@
     "cook_time_min": 4,
     "servings": 1,
     "difficulty": "Easy",
-    "nutrition": {"calories": 720, "protein_g": 36, "carbs_g": 62, "fat_g": 36},
-    "flavor_profile": ["savory", "creamy", "smoky", "rich"],
-    "dietary_tags": ["calorie-dense", "high-protein", "quick"],
+    "nutrition": {
+      "calories": 720,
+      "protein_g": 36,
+      "carbs_g": 62,
+      "fat_g": 36
+    },
+    "flavor_profile": [
+      "savory",
+      "creamy",
+      "smoky",
+      "rich"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "quick"
+    ],
     "vibe_description": "Toasted everything bagel layered with cream cheese, smashed avocado, smoked salmon, and a runny fried egg. Nutrient-rich, calorie-dense, and deeply satisfying.",
     "ingredients": [
       "1 everything bagel, halved and toasted",
@@ -802,9 +1247,26 @@
     "cook_time_min": 50,
     "servings": 4,
     "difficulty": "Hard",
-    "nutrition": {"calories": 520, "protein_g": 43, "carbs_g": 16, "fat_g": 31},
-    "flavor_profile": ["fiery", "spicy", "tangy", "vinegary", "bold", "intense"],
-    "dietary_tags": ["high-protein", "gluten-free", "dairy-free", "halal"],
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 43,
+      "carbs_g": 16,
+      "fat_g": 31
+    },
+    "flavor_profile": [
+      "fiery",
+      "spicy",
+      "tangy",
+      "vinegary",
+      "bold",
+      "intense"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "dairy-free",
+      "halal"
+    ],
     "vibe_description": "One of the boldest, most fiery curries around — slow-simmered beef infused with Kashmiri chilies, cider vinegar, garlic, cinnamon, and cloves for serious heat seekers.",
     "ingredients": [
       "800g beef chuck, cubed",
@@ -830,9 +1292,25 @@
     "cook_time_min": 7,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 290, "protein_g": 36, "carbs_g": 10, "fat_g": 12},
-    "flavor_profile": ["light", "garlicky", "zesty", "fresh"],
-    "dietary_tags": ["high-protein", "low-carb", "gluten-free", "light", "quick"],
+    "nutrition": {
+      "calories": 290,
+      "protein_g": 36,
+      "carbs_g": 10,
+      "fat_g": 12
+    },
+    "flavor_profile": [
+      "light",
+      "garlicky",
+      "zesty",
+      "fresh"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "low-carb",
+      "gluten-free",
+      "light",
+      "quick"
+    ],
     "vibe_description": "Super light, ultra-low-calorie meal with juicy garlic-lemon shrimp tossed over crisp spiralized zucchini. Ideal for cutting or a clean 15-minute weeknight dinner.",
     "ingredients": [
       "450g large shrimp, peeled",
@@ -856,9 +1334,26 @@
     "cook_time_min": 15,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 740, "protein_g": 44, "carbs_g": 74, "fat_g": 29},
-    "flavor_profile": ["nutty", "spicy", "creamy", "savory", "rich"],
-    "dietary_tags": ["calorie-dense", "high-protein", "dairy-free", "quick", "halal"],
+    "nutrition": {
+      "calories": 740,
+      "protein_g": 44,
+      "carbs_g": 74,
+      "fat_g": 29
+    },
+    "flavor_profile": [
+      "nutty",
+      "spicy",
+      "creamy",
+      "savory",
+      "rich"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "dairy-free",
+      "quick",
+      "halal"
+    ],
     "vibe_description": "Chewy noodles coated in a thick, spicy peanut-sriracha-lime sauce with seared chicken and crushed peanuts. High-calorie, high-protein, and bursting with bold flavor.",
     "ingredients": [
       "350g chicken breast, thinly sliced",
@@ -885,9 +1380,22 @@
     "cook_time_min": 20,
     "servings": 2,
     "difficulty": "Easy",
-    "nutrition": {"calories": 440, "protein_g": 16, "carbs_g": 56, "fat_g": 17},
-    "flavor_profile": ["spicy", "tangy", "crunchy", "zesty"],
-    "dietary_tags": ["vegetarian", "quick"],
+    "nutrition": {
+      "calories": 440,
+      "protein_g": 16,
+      "carbs_g": 56,
+      "fat_g": 17
+    },
+    "flavor_profile": [
+      "spicy",
+      "tangy",
+      "crunchy",
+      "zesty"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "quick"
+    ],
     "vibe_description": "Crisp roasted cauliflower florets tossed in tangy hot buffalo sauce and wrapped with cool ranch-yogurt slaw. A fiery, crunchy meatless dinner.",
     "ingredients": [
       "1 small head cauliflower, cut into bite-size florets",
@@ -902,6 +1410,2652 @@
       "Toss cauliflower florets with olive oil, garlic powder, and salt; roast at 220°C for 18 minutes until crisp.",
       "Toss hot roasted cauliflower in buffalo hot sauce.",
       "Fill wraps with shredded lettuce, spicy cauliflower, and cool yogurt ranch; roll and slice."
+    ]
+  },
+  {
+    "id": "chapli_kabab_platter",
+    "name": "Peshawari Chapli Kabab & Mint Raita",
+    "cuisine": "Pakistani",
+    "prep_time_min": 20,
+    "cook_time_min": 18,
+    "servings": 4,
+    "difficulty": "Medium",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 42,
+      "carbs_g": 14,
+      "fat_g": 32
+    },
+    "flavor_profile": [
+      "spicy",
+      "savory",
+      "smoky",
+      "herby",
+      "bold"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "low-carb",
+      "gluten-free",
+      "halal"
+    ],
+    "vibe_description": "Crispy pan-seared spiced beef patties studded with crushed coriander, pomegranate seeds, and green chilies.",
+    "ingredients": [
+      "600g ground beef",
+      "1 onion finely chopped",
+      "2 tomatoes diced",
+      "2 tbsp crushed coriander seeds",
+      "1 tbsp anardana",
+      "3 green chilies",
+      "1 egg"
+    ],
+    "steps": [
+      "Mix beef with spices, onion, tomato, and egg.",
+      "Flatten into thin patties and pan-fry in ghee 4 min per side.",
+      "Serve hot with mint yogurt raita."
+    ]
+  },
+  {
+    "id": "chicken_nihari_slow",
+    "name": "Slow-Cooked Lahore Chicken Nihari",
+    "cuisine": "Pakistani",
+    "prep_time_min": 20,
+    "cook_time_min": 50,
+    "servings": 4,
+    "difficulty": "Medium",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 44,
+      "carbs_g": 18,
+      "fat_g": 34
+    },
+    "flavor_profile": [
+      "rich",
+      "spicy",
+      "aromatic",
+      "warm",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "halal",
+      "comfort-food"
+    ],
+    "vibe_description": "Silky, aromatic slow-simmered chicken stew spiced with long pepper, ginger, and toasted fennel.",
+    "ingredients": [
+      "800g bone-in chicken",
+      "3 tbsp nihari masala",
+      "2 tbsp ginger-garlic paste",
+      "1/3 cup oil",
+      "3 tbsp whole wheat flour",
+      "Julienne ginger and lemon"
+    ],
+    "steps": [
+      "Sear chicken with ginger-garlic and nihari masala.",
+      "Simmer 35 min with 4 cups water.",
+      "Whisk flour slurry to thicken gravy and simmer 10 min; garnish with ginger."
+    ]
+  },
+  {
+    "id": "palak_paneer_classic",
+    "name": "Creamy Spinach & Paneer (Palak Paneer)",
+    "cuisine": "Indian",
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 24,
+      "carbs_g": 16,
+      "fat_g": 30
+    },
+    "flavor_profile": [
+      "creamy",
+      "earthy",
+      "garlicky",
+      "mildly-spiced"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "low-carb"
+    ],
+    "vibe_description": "Velvety pureed spinach simmered with garlic, cumin, and golden cubes of fresh paneer.",
+    "ingredients": [
+      "250g paneer cubes",
+      "400g fresh spinach",
+      "1 onion, 2 tomatoes",
+      "4 cloves garlic",
+      "1 tsp cumin, 1 tsp garam masala",
+      "2 tbsp cream"
+    ],
+    "steps": [
+      "Blanch and puree spinach.",
+      "Sauté onion, garlic, tomatoes, and spices.",
+      "Simmer spinach puree with pan-seared paneer for 6 min."
+    ]
+  },
+  {
+    "id": "shakshuka_feta_eggs",
+    "name": "Spicy Tomato Shakshuka with Feta",
+    "cuisine": "Middle Eastern",
+    "prep_time_min": 10,
+    "cook_time_min": 18,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 390,
+      "protein_g": 22,
+      "carbs_g": 20,
+      "fat_g": 24
+    },
+    "flavor_profile": [
+      "spicy",
+      "tangy",
+      "garlicky",
+      "warm",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "low-carb"
+    ],
+    "vibe_description": "Runny poached eggs nestled in a bubbling harissa-spiced tomato and bell pepper sauce with salty feta.",
+    "ingredients": [
+      "4 large eggs",
+      "400g crushed tomatoes",
+      "1 red bell pepper",
+      "1 tbsp harissa or chili flakes",
+      "3 cloves garlic",
+      "1/3 cup crumbled feta"
+    ],
+    "steps": [
+      "Sauté pepper, onion, and garlic in olive oil.",
+      "Simmer crushed tomatoes and harissa 10 min.",
+      "Crack eggs into wells, cover 5 min, top with feta."
+    ]
+  },
+  {
+    "id": "chicken_shawarma_bowl",
+    "name": "Garlic Chicken Shawarma Rice Bowl",
+    "cuisine": "Middle Eastern",
+    "prep_time_min": 20,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 48,
+      "carbs_g": 52,
+      "fat_g": 22
+    },
+    "flavor_profile": [
+      "garlicky",
+      "savory",
+      "warm",
+      "zesty",
+      "aromatic"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "halal",
+      "meal-prep"
+    ],
+    "vibe_description": "Warm-spiced roasted chicken thighs over turmeric rice with toum garlic sauce and pickled turnips.",
+    "ingredients": [
+      "450g chicken thighs",
+      "1.5 tbsp shawarma spice",
+      "1.5 cups cooked turmeric rice",
+      "3 tbsp garlic yogurt sauce",
+      "Cucumber and pickled onions"
+    ],
+    "steps": [
+      "Marinate chicken with shawarma spice, lemon, and olive oil.",
+      "Sear or roast 14 min until charred.",
+      "Slice over turmeric rice with garlic sauce and pickles."
+    ]
+  },
+  {
+    "id": "korean_bibimbap_beef",
+    "name": "Crispy Beef Bibimbap Rice Bowl",
+    "cuisine": "Korean",
+    "prep_time_min": 20,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Medium",
+    "nutrition": {
+      "calories": 640,
+      "protein_g": 39,
+      "carbs_g": 68,
+      "fat_g": 22
+    },
+    "flavor_profile": [
+      "savory",
+      "spicy",
+      "umami",
+      "nutty",
+      "bold"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "dairy-free",
+      "halal"
+    ],
+    "vibe_description": "Warm rice topped with marinated bulgogi beef, sautéed spinach, carrots, crispy fried egg, and spicy gochujang.",
+    "ingredients": [
+      "300g thinly sliced beef",
+      "2 cups cooked rice",
+      "2 fried eggs",
+      "1 cup spinach and julienned carrots",
+      "2 tbsp gochujang",
+      "1 tbsp sesame oil"
+    ],
+    "steps": [
+      "Marinate beef in soy, garlic, and sesame oil; sear 4 min.",
+      "Sauté vegetables separately.",
+      "Assemble over rice with fried egg and gochujang."
+    ]
+  },
+  {
+    "id": "miso_glazed_cod",
+    "name": "Sweet Miso Glazed Black Cod",
+    "cuisine": "Japanese",
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 36,
+      "carbs_g": 18,
+      "fat_g": 20
+    },
+    "flavor_profile": [
+      "umami",
+      "sweet",
+      "savory",
+      "buttery",
+      "light"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "dairy-free",
+      "quick"
+    ],
+    "vibe_description": "Tender flaky cod caramelized under the broiler with a rich white miso, mirin, and ginger glaze.",
+    "ingredients": [
+      "2 cod fillets (180g each)",
+      "3 tbsp white miso paste",
+      "1.5 tbsp mirin",
+      "1 tbsp honey",
+      "1 tsp grated ginger",
+      "Steamed bok choy"
+    ],
+    "steps": [
+      "Whisk miso, mirin, honey, and ginger.",
+      "Coat fillets and broil 8-10 min until bubbling and caramelized.",
+      "Serve with steamed bok choy."
+    ]
+  },
+  {
+    "id": "pad_kra_pao_chicken",
+    "name": "Thai Basil Spicy Minced Chicken (Pad Kra Pao)",
+    "cuisine": "Thai",
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 510,
+      "protein_g": 40,
+      "carbs_g": 44,
+      "fat_g": 18
+    },
+    "flavor_profile": [
+      "fiery",
+      "spicy",
+      "aromatic",
+      "savory",
+      "sizzling"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "dairy-free",
+      "quick",
+      "halal"
+    ],
+    "vibe_description": "Wok-seared minced chicken tossed with bird's eye chilies, garlic, oyster sauce, and holy basil over jasmine rice.",
+    "ingredients": [
+      "400g ground chicken",
+      "4 bird's eye chilies",
+      "5 cloves garlic",
+      "2 tbsp soy sauce, 1 tbsp oyster sauce",
+      "1 cup fresh basil leaves",
+      "2 fried eggs and jasmine rice"
+    ],
+    "steps": [
+      "Pound garlic and chilies; sizzle in hot wok 30 sec.",
+      "Stir-fry ground chicken 5 min until browned.",
+      "Add sauces and basil; serve over rice with a crispy fried egg."
+    ]
+  },
+  {
+    "id": "kung_pao_tofu",
+    "name": "Crispy Peanut Kung Pao Tofu",
+    "cuisine": "Chinese",
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 490,
+      "protein_g": 24,
+      "carbs_g": 42,
+      "fat_g": 25
+    },
+    "flavor_profile": [
+      "spicy",
+      "nutty",
+      "savory",
+      "tangy",
+      "crunchy"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "dairy-free"
+    ],
+    "vibe_description": "Golden tofu cubes stir-fried with roasted peanuts, dried red chilies, bell peppers, and tangy black vinegar glaze.",
+    "ingredients": [
+      "400g firm tofu cubed",
+      "1/3 cup roasted peanuts",
+      "6 dried red chilies",
+      "2 tbsp soy sauce, 1 tbsp black vinegar",
+      "1 tsp cornstarch",
+      "1 bell pepper"
+    ],
+    "steps": [
+      "Pan-fry tofu until crisp.",
+      "Sauté chilies, garlic, and bell pepper.",
+      "Toss tofu, peanuts, and soy-vinegar sauce 2 min until glossy."
+    ]
+  },
+  {
+    "id": "mediterranean_baked_salmon",
+    "name": "Herb-Crusted Lemon Baked Salmon",
+    "cuisine": "Mediterranean",
+    "prep_time_min": 8,
+    "cook_time_min": 14,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 460,
+      "protein_g": 42,
+      "carbs_g": 6,
+      "fat_g": 30
+    },
+    "flavor_profile": [
+      "fresh",
+      "zesty",
+      "herby",
+      "light"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "low-carb",
+      "gluten-free",
+      "dairy-free",
+      "quick"
+    ],
+    "vibe_description": "Flaky salmon baked with lemon slices, dill, parsley, and olive oil for an effortless clean dinner.",
+    "ingredients": [
+      "2 salmon fillets",
+      "2 tbsp olive oil",
+      "1 lemon sliced",
+      "2 tbsp chopped dill and parsley",
+      "2 cloves garlic"
+    ],
+    "steps": [
+      "Rub salmon with olive oil, garlic, herbs, salt, and pepper.",
+      "Top with lemon slices and bake at 200°C for 12-14 min."
+    ]
+  },
+  {
+    "id": "turkey_meatball_zoodles",
+    "name": "Lean Turkey Meatballs & Marinara Zoodles",
+    "cuisine": "Italian",
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 38,
+      "carbs_g": 16,
+      "fat_g": 15
+    },
+    "flavor_profile": [
+      "savory",
+      "herby",
+      "light",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "low-carb",
+      "gluten-free"
+    ],
+    "vibe_description": "Juicy herb-seasoned turkey meatballs simmered in garlic marinara over spiralized zucchini noodles.",
+    "ingredients": [
+      "500g lean ground turkey",
+      "1 egg, 1/4 cup almond flour",
+      "2 cups marinara sauce",
+      "3 zucchinis spiralized",
+      "1 tsp Italian seasoning"
+    ],
+    "steps": [
+      "Mix turkey, egg, almond flour, and herbs; form meatballs and bake 15 min.",
+      "Simmer in marinara 5 min and serve over sautéed zoodles."
+    ]
+  },
+  {
+    "id": "steak_fajita_skillet",
+    "name": "Sizzling Beef Fajita Skillet",
+    "cuisine": "Mexican",
+    "prep_time_min": 15,
+    "cook_time_min": 12,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 490,
+      "protein_g": 44,
+      "carbs_g": 22,
+      "fat_g": 24
+    },
+    "flavor_profile": [
+      "sizzling",
+      "smoky",
+      "zesty",
+      "spicy",
+      "bold"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "dairy-free",
+      "halal"
+    ],
+    "vibe_description": "Cast-iron seared cumin-lime flank steak strips with charred bell peppers and sweet onions.",
+    "ingredients": [
+      "600g flank steak sliced",
+      "2 bell peppers sliced",
+      "1 large onion sliced",
+      "1 tbsp chili powder, 1 tsp cumin",
+      "Juice of 1 lime",
+      "2 tbsp olive oil"
+    ],
+    "steps": [
+      "Toss steak and veggies with spices, oil, and lime.",
+      "Sear in a screaming-hot cast-iron skillet 6-8 min until charred."
+    ]
+  },
+  {
+    "id": "carnitas_protein_bowl",
+    "name": "Crispy Spiced Beef & Black Bean Power Bowl",
+    "cuisine": "Mexican",
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 690,
+      "protein_g": 46,
+      "carbs_g": 58,
+      "fat_g": 28
+    },
+    "flavor_profile": [
+      "savory",
+      "smoky",
+      "zesty",
+      "hearty"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "halal"
+    ],
+    "vibe_description": "Citrus-braised shredded beef crisped in a skillet over cilantro-lime rice, black beans, and pico de gallo.",
+    "ingredients": [
+      "500g shredded braised beef",
+      "1.5 cups cilantro-lime rice",
+      "1 cup black beans",
+      "1/2 cup pico de gallo",
+      "1/2 avocado"
+    ],
+    "steps": [
+      "Crisp braised beef in a hot skillet with cumin and orange juice.",
+      "Layer over rice and black beans; top with pico and avocado."
+    ]
+  },
+  {
+    "id": "chickpea_spinach_coconut_curry",
+    "name": "20-Minute Coconut Chickpea & Spinach Curry",
+    "cuisine": "Indian",
+    "prep_time_min": 8,
+    "cook_time_min": 15,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 410,
+      "protein_g": 14,
+      "carbs_g": 44,
+      "fat_g": 20
+    },
+    "flavor_profile": [
+      "creamy",
+      "warm",
+      "aromatic",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free",
+      "quick"
+    ],
+    "vibe_description": "Velvety coconut curry loaded with chickpeas, baby spinach, ginger, and garam masala.",
+    "ingredients": [
+      "2 cans chickpeas",
+      "1 can coconut milk",
+      "3 cups baby spinach",
+      "1 tbsp curry powder, 1 tsp garam masala",
+      "1 tbsp ginger-garlic paste"
+    ],
+    "steps": [
+      "Sauté ginger-garlic and spices 1 min.",
+      "Add coconut milk and chickpeas; simmer 10 min.",
+      "Fold in spinach until wilted; serve with rice."
+    ]
+  },
+  {
+    "id": "high_protein_overnight_oats",
+    "name": "Berry Cheesecake Protein Overnight Oats",
+    "cuisine": "American",
+    "prep_time_min": 5,
+    "cook_time_min": 0,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 510,
+      "protein_g": 40,
+      "carbs_g": 62,
+      "fat_g": 11
+    },
+    "flavor_profile": [
+      "sweet",
+      "creamy",
+      "fresh",
+      "light"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "vegetarian",
+      "quick",
+      "no-cook",
+      "meal-prep"
+    ],
+    "vibe_description": "Chilled creamy oats soaked with Greek yogurt, vanilla whey, chia seeds, and mixed berries.",
+    "ingredients": [
+      "3/4 cup rolled oats",
+      "1/2 cup Greek yogurt",
+      "1 scoop vanilla whey protein",
+      "3/4 cup milk",
+      "1/2 cup mixed berries",
+      "1 tsp chia seeds"
+    ],
+    "steps": [
+      "Whisk milk, yogurt, whey, and chia seeds.",
+      "Stir in oats, top with berries, and refrigerate overnight."
+    ]
+  },
+  {
+    "id": "salmon_poke_bowl",
+    "name": "Spicy Mayo Salmon Poke Bowl",
+    "cuisine": "Hawaiian-Japanese",
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 580,
+      "protein_g": 38,
+      "carbs_g": 54,
+      "fat_g": 24
+    },
+    "flavor_profile": [
+      "fresh",
+      "spicy",
+      "creamy",
+      "umami"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "dairy-free",
+      "quick"
+    ],
+    "vibe_description": "Sushi-grade salmon cubes tossed in soy-sesame marinade over sushi rice with avocado, edamame, and sriracha mayo.",
+    "ingredients": [
+      "300g sushi-grade salmon cubed",
+      "2 tbsp soy sauce, 1 tsp sesame oil",
+      "1.5 cups sushi rice",
+      "1/2 avocado, 1/2 cup edamame",
+      "2 tbsp sriracha mayo"
+    ],
+    "steps": [
+      "Marinate salmon in soy and sesame oil.",
+      "Assemble bowl with rice, salmon, avocado, edamame, and sriracha mayo."
+    ]
+  },
+  {
+    "id": "loaded_tuna_melt_wrap",
+    "name": "Crunchy Cheddar Tuna Melt Wrap",
+    "cuisine": "American",
+    "prep_time_min": 8,
+    "cook_time_min": 5,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 44,
+      "carbs_g": 38,
+      "fat_g": 25
+    },
+    "flavor_profile": [
+      "cheesy",
+      "savory",
+      "crunchy",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "quick"
+    ],
+    "vibe_description": "Crispy toasted tortilla stuffed with lemon-herb tuna salad and melted sharp cheddar.",
+    "ingredients": [
+      "1 can tuna drained",
+      "2 tbsp Greek yogurt",
+      "1/3 cup shredded cheddar",
+      "1 large tortilla",
+      "Diced celery and Dijon mustard"
+    ],
+    "steps": [
+      "Mix tuna, yogurt, mustard, and celery.",
+      "Spread on tortilla with cheddar, fold, and pan-toast 3 min per side."
+    ]
+  },
+  {
+    "id": "garlic_parmesan_chicken_alfredo",
+    "name": "High-Protein Cottage Cheese Chicken Alfredo",
+    "cuisine": "Italian",
+    "prep_time_min": 10,
+    "cook_time_min": 18,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 56,
+      "carbs_g": 54,
+      "fat_g": 18
+    },
+    "flavor_profile": [
+      "creamy",
+      "cheesy",
+      "garlicky",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "halal"
+    ],
+    "vibe_description": "Rich garlic parmesan Alfredo sauce blended from cottage cheese instead of heavy cream, tossed with pasta and grilled chicken.",
+    "ingredients": [
+      "350g chicken breast",
+      "180g fettuccine",
+      "1 cup blended cottage cheese",
+      "1/2 cup parmesan",
+      "3 cloves garlic, 1 tbsp butter"
+    ],
+    "steps": [
+      "Boil pasta and grill seasoned chicken.",
+      "Blend cottage cheese smooth with warm pasta water, garlic, and parmesan.",
+      "Toss pasta and sliced chicken in the silky sauce."
+    ]
+  },
+  {
+    "id": "mass_gainer_beef_pasta",
+    "name": "Double-Beef Creamy Rigatoni Bulk Bake",
+    "cuisine": "Italian-American",
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 880,
+      "protein_g": 56,
+      "carbs_g": 84,
+      "fat_g": 34
+    },
+    "flavor_profile": [
+      "rich",
+      "cheesy",
+      "hearty",
+      "savory",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "bulking",
+      "halal"
+    ],
+    "vibe_description": "Heavyweight rigatoni loaded with ground beef, ricotta, marinara, and melted mozzarella for serious bulking.",
+    "ingredients": [
+      "600g ground beef",
+      "300g rigatoni",
+      "2 cups marinara",
+      "1/2 cup ricotta, 1 cup mozzarella",
+      "1 tbsp olive oil"
+    ],
+    "steps": [
+      "Brown beef and simmer with marinara.",
+      "Toss with cooked rigatoni and ricotta, top with mozzarella, and broil 5 min."
+    ]
+  },
+  {
+    "id": "avocado_almond_bulk_toast",
+    "name": "800-Calorie Almond Butter, Banana & Egg Power Toast",
+    "cuisine": "American",
+    "prep_time_min": 8,
+    "cook_time_min": 6,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 810,
+      "protein_g": 34,
+      "carbs_g": 74,
+      "fat_g": 44
+    },
+    "flavor_profile": [
+      "nutty",
+      "sweet",
+      "savory",
+      "rich"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "vegetarian",
+      "quick",
+      "bulking"
+    ],
+    "vibe_description": "Two thick slices of sourdough — one loaded with almond butter, banana, and hemp seeds, the other with mashed avocado and 2 fried eggs.",
+    "ingredients": [
+      "2 thick sourdough slices",
+      "2 tbsp almond butter, 1 banana",
+      "1 tbsp hemp seeds",
+      "1/2 avocado, 2 fried eggs"
+    ],
+    "steps": [
+      "Toast bread.",
+      "Top slice 1 with almond butter, banana, and hemp seeds; top slice 2 with avocado and fried eggs."
+    ]
+  },
+  {
+    "id": "peanut_tofu_pad_thai",
+    "name": "High-Protein Crispy Tofu Pad Thai",
+    "cuisine": "Thai",
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 680,
+      "protein_g": 32,
+      "carbs_g": 78,
+      "fat_g": 26
+    },
+    "flavor_profile": [
+      "tangy",
+      "sweet",
+      "nutty",
+      "savory"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "high-protein"
+    ],
+    "vibe_description": "Rice noodles stir-fried in tangy tamarind-lime sauce with crispy tofu, bean sprouts, and crushed peanuts.",
+    "ingredients": [
+      "200g rice noodles",
+      "350g firm tofu cubed",
+      "3 tbsp tamarind paste, 2 tbsp soy, 1 tbsp sugar",
+      "1/3 cup crushed peanuts",
+      "Bean sprouts and scallions"
+    ],
+    "steps": [
+      "Soak noodles and pan-fry tofu until crisp.",
+      "Stir-fry noodles with tamarind sauce, tofu, and sprouts; top with peanuts."
+    ]
+  },
+  {
+    "id": "spicy_shrimp_diavolo",
+    "name": "Fiery Fra Diavolo Shrimp Linguine",
+    "cuisine": "Italian",
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 38,
+      "carbs_g": 64,
+      "fat_g": 14
+    },
+    "flavor_profile": [
+      "fiery",
+      "spicy",
+      "garlicky",
+      "bold",
+      "tangy"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "dairy-free",
+      "quick"
+    ],
+    "vibe_description": "Plump shrimp simmered in a blazing crushed-tomato, garlic, and calabrian chili sauce over linguine.",
+    "ingredients": [
+      "400g shrimp peeled",
+      "180g linguine",
+      "400g crushed tomatoes",
+      "1.5 tsp red chili flakes",
+      "5 cloves garlic, 2 tbsp olive oil"
+    ],
+    "steps": [
+      "Sizzle garlic and chili flakes in olive oil.",
+      "Simmer crushed tomatoes 8 min, add shrimp for 3 min, and toss with linguine."
+    ]
+  },
+  {
+    "id": "moroccan_spiced_lamb_couscous",
+    "name": "Moroccan Harissa Lamb & Chickpea Couscous",
+    "cuisine": "North African",
+    "prep_time_min": 15,
+    "cook_time_min": 25,
+    "servings": 3,
+    "difficulty": "Medium",
+    "nutrition": {
+      "calories": 670,
+      "protein_g": 42,
+      "carbs_g": 62,
+      "fat_g": 26
+    },
+    "flavor_profile": [
+      "spicy",
+      "aromatic",
+      "warm",
+      "savory"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "halal"
+    ],
+    "vibe_description": "Cumin-and-cinnamon seared lamb strips served over fluffy saffron couscous with chickpeas and smoky harissa.",
+    "ingredients": [
+      "450g lamb strips",
+      "1.5 cups couscous",
+      "1 cup chickpeas",
+      "2 tbsp harissa paste",
+      "1 tsp cumin, 1/2 tsp cinnamon"
+    ],
+    "steps": [
+      "Sear spiced lamb in olive oil 6 min.",
+      "Fluff couscous with chickpeas and serve topped with lamb and harissa."
+    ]
+  },
+  {
+    "id": "crispy_skin_chicken_thighs_mash",
+    "name": "Herb Garlic Chicken Thighs & Cheesy Mash",
+    "cuisine": "American",
+    "prep_time_min": 15,
+    "cook_time_min": 30,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 790,
+      "protein_g": 44,
+      "carbs_g": 52,
+      "fat_g": 44
+    },
+    "flavor_profile": [
+      "rich",
+      "savory",
+      "creamy",
+      "crispy",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "gluten-free",
+      "comfort-food",
+      "halal"
+    ],
+    "vibe_description": "Golden crispy-skin chicken thighs with pan gravy served over buttery cheddar mashed potatoes.",
+    "ingredients": [
+      "600g bone-in chicken thighs",
+      "600g Yukon gold potatoes",
+      "3 tbsp butter, 1/3 cup cream",
+      "1/2 cup cheddar",
+      "4 cloves garlic and thyme"
+    ],
+    "steps": [
+      "Pan-roast chicken thighs skin-side down until crisp.",
+      "Boil and mash potatoes with butter, cream, and cheddar; serve with pan juices."
+    ]
+  },
+  {
+    "id": "keto_bacon_cheddar_omelet",
+    "name": "Loaded Steak & Cheddar Keto Omelet",
+    "cuisine": "American",
+    "prep_time_min": 8,
+    "cook_time_min": 8,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 48,
+      "carbs_g": 4,
+      "fat_g": 46
+    },
+    "flavor_profile": [
+      "cheesy",
+      "savory",
+      "rich"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "low-carb",
+      "gluten-free",
+      "quick",
+      "halal"
+    ],
+    "vibe_description": "Three-egg omelet stuffed with leftover seared steak strips, sharp cheddar, mushrooms, and chives.",
+    "ingredients": [
+      "3 whole eggs",
+      "120g cooked steak sliced",
+      "1/2 cup cheddar cheese",
+      "1/2 cup sliced mushrooms",
+      "1 tbsp butter"
+    ],
+    "steps": [
+      "Sauté mushrooms in butter, pour in whisked eggs.",
+      "Add steak and cheddar, fold, and melt."
+    ]
+  },
+  {
+    "id": "vietnamese_lemongrass_chicken_bowl",
+    "name": "Charred Lemongrass Chicken Vermicelli Bowl",
+    "cuisine": "Vietnamese",
+    "prep_time_min": 20,
+    "cook_time_min": 12,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 510,
+      "protein_g": 42,
+      "carbs_g": 54,
+      "fat_g": 14
+    },
+    "flavor_profile": [
+      "fresh",
+      "zesty",
+      "aromatic",
+      "savory",
+      "light"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "dairy-free",
+      "halal"
+    ],
+    "vibe_description": "Fragrant lemongrass-garlic grilled chicken over cool rice vermicelli with crisp cucumber, herbs, and nuoc cham.",
+    "ingredients": [
+      "400g chicken thighs",
+      "2 tbsp minced lemongrass, 3 cloves garlic",
+      "150g rice vermicelli",
+      "Cucumber, mint, cilantro, peanuts",
+      "Nuoc cham lime dressing"
+    ],
+    "steps": [
+      "Marinate chicken in lemongrass, garlic, and fish sauce; grill 10 min.",
+      "Serve over vermicelli with fresh herbs and lime dressing."
+    ]
+  },
+  {
+    "id": "pesto_chicken_mozzarella_panini",
+    "name": "Basil Pesto Chicken & Mozzarella Panini",
+    "cuisine": "Italian",
+    "prep_time_min": 8,
+    "cook_time_min": 8,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 640,
+      "protein_g": 46,
+      "carbs_g": 48,
+      "fat_g": 28
+    },
+    "flavor_profile": [
+      "herby",
+      "cheesy",
+      "savory",
+      "crispy"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "quick",
+      "halal"
+    ],
+    "vibe_description": "Pressed sourdough panini packed with grilled chicken, basil pesto, fresh mozzarella, and sun-dried tomatoes.",
+    "ingredients": [
+      "300g grilled chicken breast",
+      "4 slices sourdough",
+      "3 tbsp basil pesto",
+      "120g fresh mozzarella",
+      "Sun-dried tomatoes"
+    ],
+    "steps": [
+      "Layer pesto, chicken, mozzarella, and tomatoes between sourdough.",
+      "Press in a hot skillet 3 min per side until melty and crisp."
+    ]
+  },
+  {
+    "id": "greek_lentil_feta_soup",
+    "name": "Hearty Lemon-Oregano Greek Lentil Soup",
+    "cuisine": "Greek",
+    "prep_time_min": 10,
+    "cook_time_min": 30,
+    "servings": 4,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 340,
+      "protein_g": 18,
+      "carbs_g": 48,
+      "fat_g": 8
+    },
+    "flavor_profile": [
+      "earthy",
+      "zesty",
+      "warm",
+      "light",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "light",
+      "budget-friendly"
+    ],
+    "vibe_description": "Nourishing brown lentil soup simmered with carrots, celery, garlic, rosemary, and finished with lemon and feta.",
+    "ingredients": [
+      "1.5 cups brown lentils",
+      "2 carrots, 2 celery stalks",
+      "4 cloves garlic, 1 tsp oregano",
+      "5 cups vegetable broth",
+      "Juice of 1 lemon and feta"
+    ],
+    "steps": [
+      "Sauté veggies and garlic in olive oil.",
+      "Simmer lentils and broth 25 min.",
+      "Finish with lemon juice and crumbled feta."
+    ]
+  },
+  {
+    "id": "cajun_blackened_tilapia",
+    "name": "Spicy Cajun Blackened Tilapia & Corn Salsa",
+    "cuisine": "American",
+    "prep_time_min": 10,
+    "cook_time_min": 8,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 350,
+      "protein_g": 42,
+      "carbs_g": 24,
+      "fat_g": 9
+    },
+    "flavor_profile": [
+      "spicy",
+      "smoky",
+      "zesty",
+      "light",
+      "bold"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "dairy-free",
+      "light",
+      "quick"
+    ],
+    "vibe_description": "Lean white fish fillets crusted in smoky Cajun spices and seared in a hot skillet, served with sweet corn salsa.",
+    "ingredients": [
+      "400g tilapia fillets",
+      "1.5 tbsp Cajun seasoning",
+      "1 tbsp olive oil",
+      "1 cup charred corn, tomato, lime salsa"
+    ],
+    "steps": [
+      "Coat fish in Cajun spice and sear 3 min per side.",
+      "Serve immediately with bright corn-lime salsa."
+    ]
+  },
+  {
+    "id": "spicy_tuna_crispy_rice",
+    "name": "Spicy Sriracha Tuna Crispy Rice Bites",
+    "cuisine": "Japanese",
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Medium",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 32,
+      "carbs_g": 56,
+      "fat_g": 18
+    },
+    "flavor_profile": [
+      "spicy",
+      "crunchy",
+      "savory",
+      "umami"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "dairy-free"
+    ],
+    "vibe_description": "Golden pan-fried sushi rice cakes topped with spicy sriracha-mayo tuna tartare and sliced jalapeño.",
+    "ingredients": [
+      "1.5 cups cooked sushi rice",
+      "250g sushi-grade tuna diced",
+      "2 tbsp sriracha mayo, 1 tsp soy sauce",
+      "1 jalapeño sliced"
+    ],
+    "steps": [
+      "Press rice flat, cut into squares, and pan-fry until crisp.",
+      "Top with spicy tuna mixture and jalapeño."
+    ]
+  },
+  {
+    "id": "chipotle_chicken_quesadilla",
+    "name": "High-Protein Chipotle Chicken Quesadilla",
+    "cuisine": "Mexican",
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 48,
+      "carbs_g": 46,
+      "fat_g": 26
+    },
+    "flavor_profile": [
+      "smoky",
+      "spicy",
+      "cheesy",
+      "crispy"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "quick",
+      "halal"
+    ],
+    "vibe_description": "Crispy golden tortilla filled with smoky chipotle-shredded chicken, black beans, and melted Monterey Jack.",
+    "ingredients": [
+      "350g shredded chicken",
+      "1 tbsp chipotle in adobo",
+      "2 large tortillas",
+      "1 cup Monterey Jack cheese",
+      "1/2 cup black beans"
+    ],
+    "steps": [
+      "Toss chicken with chipotle sauce.",
+      "Fill tortillas with chicken, beans, and cheese; griddle 3 min per side."
+    ]
+  },
+  {
+    "id": "tandoori_paneer_tikka_bowl",
+    "name": "Smoky Tandoori Paneer Tikka & Mint Rice",
+    "cuisine": "Indian",
+    "prep_time_min": 20,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 28,
+      "carbs_g": 48,
+      "fat_g": 28
+    },
+    "flavor_profile": [
+      "smoky",
+      "spicy",
+      "tangy",
+      "aromatic"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "vibe_description": "Charred yogurt-and-spice marinated paneer and bell peppers over fragrant basmati rice with cooling mint chutney.",
+    "ingredients": [
+      "250g paneer cubed",
+      "1/3 cup Greek yogurt, 1 tbsp tandoori masala",
+      "1 bell pepper, 1 red onion",
+      "1.5 cups cooked basmati rice",
+      "Mint chutney"
+    ],
+    "steps": [
+      "Marinate paneer and veggies in spiced yogurt.",
+      "Roast at 220°C for 14 min until charred; serve over rice."
+    ]
+  },
+  {
+    "id": "beef_keema_matar",
+    "name": "Spiced Beef Keema & Green Peas",
+    "cuisine": "Pakistani",
+    "prep_time_min": 12,
+    "cook_time_min": 25,
+    "servings": 4,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 490,
+      "protein_g": 38,
+      "carbs_g": 16,
+      "fat_g": 30
+    },
+    "flavor_profile": [
+      "spicy",
+      "savory",
+      "aromatic",
+      "warm",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "low-carb",
+      "gluten-free",
+      "halal"
+    ],
+    "vibe_description": "Classic Pakistani minced beef sautéed with ginger, garlic, whole spices, tomatoes, and sweet green peas.",
+    "ingredients": [
+      "600g ground beef",
+      "1 cup green peas",
+      "2 onions, 2 tomatoes",
+      "2 tbsp ginger-garlic paste",
+      "1 tsp cumin, 1 tsp chili powder, 1 tsp garam masala"
+    ],
+    "steps": [
+      "Brown onions, add ginger-garlic and beef.",
+      "Cook with tomatoes and spices 15 min, then simmer peas 5 min."
+    ]
+  },
+  {
+    "id": "butter_garlic_shrimp_rice",
+    "name": "15-Minute Garlic Butter Shrimp & Rice",
+    "cuisine": "American",
+    "prep_time_min": 5,
+    "cook_time_min": 10,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 510,
+      "protein_g": 36,
+      "carbs_g": 48,
+      "fat_g": 19
+    },
+    "flavor_profile": [
+      "garlicky",
+      "buttery",
+      "savory",
+      "zesty"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "quick"
+    ],
+    "vibe_description": "Succulent shrimp seared in browned garlic butter with lemon juice and parsley over steamed white rice.",
+    "ingredients": [
+      "400g shrimp peeled",
+      "3 tbsp butter, 5 cloves garlic",
+      "Juice of 1/2 lemon",
+      "1.5 cups cooked jasmine rice",
+      "Fresh parsley"
+    ],
+    "steps": [
+      "Sauté garlic in butter 30 sec, sear shrimp 4 min.",
+      "Add lemon and parsley; spoon over warm rice."
+    ]
+  },
+  {
+    "id": "vegan_lentil_bolognese",
+    "name": "Rich Vegan Red Lentil & Mushroom Bolognese",
+    "cuisine": "Italian",
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "servings": 4,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 450,
+      "protein_g": 21,
+      "carbs_g": 70,
+      "fat_g": 9
+    },
+    "flavor_profile": [
+      "rich",
+      "savory",
+      "earthy",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "budget-friendly"
+    ],
+    "vibe_description": "Thick, meaty plant-based ragù made from finely chopped mushrooms, red lentils, garlic, and crushed tomatoes.",
+    "ingredients": [
+      "1 cup red lentils",
+      "250g cremini mushrooms minced",
+      "400g crushed tomatoes",
+      "300g spaghetti",
+      "3 cloves garlic, 1 tsp oregano"
+    ],
+    "steps": [
+      "Sauté mushrooms and garlic.",
+      "Simmer lentils and crushed tomatoes 20 min until thick; toss with spaghetti."
+    ]
+  },
+  {
+    "id": "honey_mustard_chicken_quinoa",
+    "name": "Honey Mustard Glazed Chicken & Quinoa",
+    "cuisine": "American",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 530,
+      "protein_g": 46,
+      "carbs_g": 46,
+      "fat_g": 17
+    },
+    "flavor_profile": [
+      "tangy",
+      "sweet",
+      "savory"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "dairy-free",
+      "meal-prep",
+      "halal"
+    ],
+    "vibe_description": "Juicy pan-seared chicken breast brushed with Dijon-honey glaze over fluffy quinoa and roasted green beans.",
+    "ingredients": [
+      "400g chicken breast",
+      "2 tbsp Dijon mustard, 1.5 tbsp honey",
+      "1 cup cooked quinoa",
+      "2 cups green beans"
+    ],
+    "steps": [
+      "Pan-sear chicken 6 min per side, brushing with honey-mustard glaze.",
+      "Serve with quinoa and roasted green beans."
+    ]
+  },
+  {
+    "id": "protein_waffle_berry_stack",
+    "name": "Crispy Whey Protein Waffles & Greek Yogurt",
+    "cuisine": "American",
+    "prep_time_min": 5,
+    "cook_time_min": 8,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 490,
+      "protein_g": 42,
+      "carbs_g": 48,
+      "fat_g": 14
+    },
+    "flavor_profile": [
+      "sweet",
+      "crispy",
+      "creamy"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "vegetarian",
+      "quick"
+    ],
+    "vibe_description": "Golden oat-and-whey waffles topped with vanilla Greek yogurt, fresh strawberries, and sugar-free syrup.",
+    "ingredients": [
+      "1/2 cup oat flour",
+      "1 scoop vanilla whey",
+      "1 egg, 1/3 cup milk",
+      "1/3 cup Greek yogurt, strawberries"
+    ],
+    "steps": [
+      "Whisk batter and cook in waffle iron 4 min until crisp.",
+      "Top with Greek yogurt and berries."
+    ]
+  },
+  {
+    "id": "spicy_thai_peanut_tofu_salad",
+    "name": "Crunchy Thai Peanut & Crispy Tofu Salad",
+    "cuisine": "Thai",
+    "prep_time_min": 15,
+    "cook_time_min": 12,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 24,
+      "carbs_g": 34,
+      "fat_g": 28
+    },
+    "flavor_profile": [
+      "nutty",
+      "spicy",
+      "crunchy",
+      "fresh",
+      "zesty"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "dairy-free"
+    ],
+    "vibe_description": "Shredded red cabbage, carrots, edamame, and baked tofu tossed in a punchy chili-lime peanut dressing.",
+    "ingredients": [
+      "300g baked crispy tofu",
+      "3 cups shredded cabbage & carrots",
+      "1/2 cup edamame",
+      "3 tbsp peanut butter, 1 tbsp sriracha, lime juice"
+    ],
+    "steps": [
+      "Whisk peanut butter, sriracha, soy, and lime.",
+      "Toss crunchy veggies and tofu with dressing."
+    ]
+  },
+  {
+    "id": "korean_spicy_pork_bulgogi",
+    "name": "Fiery Gochujang Beef Bulgogi Bowls",
+    "cuisine": "Korean",
+    "prep_time_min": 15,
+    "cook_time_min": 10,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 620,
+      "protein_g": 42,
+      "carbs_g": 58,
+      "fat_g": 24
+    },
+    "flavor_profile": [
+      "fiery",
+      "sweet",
+      "smoky",
+      "bold",
+      "sizzling"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "dairy-free",
+      "quick",
+      "halal"
+    ],
+    "vibe_description": "Thinly sliced ribeye caramelized in spicy gochujang, pear, garlic, and sesame oil over steamed rice.",
+    "ingredients": [
+      "400g thinly sliced beef",
+      "2 tbsp gochujang, 1 tbsp soy, 1 tbsp honey",
+      "3 cloves garlic, 1 tsp ginger",
+      "1.5 cups steamed rice"
+    ],
+    "steps": [
+      "Marinate beef in gochujang mixture.",
+      "Flash-sear in a smoking hot skillet 4 min; serve over rice."
+    ]
+  },
+  {
+    "id": "double_egg_avocado_quesadilla",
+    "name": "Calorie-Dense Breakfast Egg, Cheese & Avocado Quesadilla",
+    "cuisine": "Mexican",
+    "prep_time_min": 5,
+    "cook_time_min": 8,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 760,
+      "protein_g": 38,
+      "carbs_g": 44,
+      "fat_g": 48
+    },
+    "flavor_profile": [
+      "cheesy",
+      "creamy",
+      "savory",
+      "rich"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "vegetarian",
+      "quick",
+      "bulking"
+    ],
+    "vibe_description": "Crispy tortilla folded around 3 scrambled eggs, black beans, sharp cheddar, and half an avocado.",
+    "ingredients": [
+      "3 eggs scrambled",
+      "1 large flour tortilla",
+      "1/2 cup shredded cheddar",
+      "1/2 avocado sliced",
+      "1/3 cup black beans"
+    ],
+    "steps": [
+      "Scramble eggs soft.",
+      "Fill tortilla with eggs, beans, cheese, and avocado; pan-toast until crisp."
+    ]
+  },
+  {
+    "id": "creamy_mushroom_stroganoff_beef",
+    "name": "Rich Beef & Mushroom Stroganoff",
+    "cuisine": "Russian-European",
+    "prep_time_min": 12,
+    "cook_time_min": 20,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 690,
+      "protein_g": 42,
+      "carbs_g": 56,
+      "fat_g": 32
+    },
+    "flavor_profile": [
+      "creamy",
+      "savory",
+      "earthy",
+      "rich",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "calorie-dense",
+      "comfort-food",
+      "halal"
+    ],
+    "vibe_description": "Tender seared beef strips and golden mushrooms in a velvety Dijon-sour cream gravy over egg noodles.",
+    "ingredients": [
+      "450g beef strips",
+      "250g mushrooms sliced",
+      "200g egg noodles",
+      "1/2 cup sour cream, 1 tbsp Dijon, 1 cup beef broth"
+    ],
+    "steps": [
+      "Sear beef and sauté mushrooms.",
+      "Simmer broth and Dijon, stir in sour cream off heat, and serve over noodles."
+    ]
+  },
+  {
+    "id": "air_fryer_crispy_salmon_bites",
+    "name": "Air-Fried Bang Bang Salmon Bites",
+    "cuisine": "Asian-Fusion",
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 510,
+      "protein_g": 38,
+      "carbs_g": 28,
+      "fat_g": 28
+    },
+    "flavor_profile": [
+      "spicy",
+      "creamy",
+      "crispy",
+      "sweet"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "quick"
+    ],
+    "vibe_description": "Bite-sized salmon cubes air-fried until crisp and drizzled with sweet-spicy sriracha mayo over rice.",
+    "ingredients": [
+      "350g salmon cubed",
+      "1 tbsp olive oil, garlic powder, paprika",
+      "2 tbsp mayo, 1 tbsp sriracha, 1 tsp honey",
+      "1 cup cooked rice"
+    ],
+    "steps": [
+      "Air-fry seasoned salmon cubes at 200°C for 8 min.",
+      "Drizzle with bang bang sauce and serve over rice."
+    ]
+  },
+  {
+    "id": "mediterranean_eggplant_chickpea_stew",
+    "name": "Warm Spiced Eggplant & Chickpea Stew",
+    "cuisine": "Mediterranean",
+    "prep_time_min": 12,
+    "cook_time_min": 25,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 14,
+      "carbs_g": 52,
+      "fat_g": 13
+    },
+    "flavor_profile": [
+      "warm",
+      "earthy",
+      "garlicky",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "vibe_description": "Silky roasted eggplant simmered with chickpeas, crushed tomatoes, cumin, and cinnamon.",
+    "ingredients": [
+      "1 large eggplant cubed",
+      "1 can chickpeas",
+      "400g crushed tomatoes",
+      "1 tsp cumin, 1/4 tsp cinnamon",
+      "2 tbsp olive oil"
+    ],
+    "steps": [
+      "Sauté eggplant in olive oil until browned.",
+      "Simmer with tomatoes, chickpeas, and spices 18 min."
+    ]
+  },
+  {
+    "id": "grilled_chicken_caesar_wrap",
+    "name": "High-Protein Grilled Chicken Caesar Wrap",
+    "cuisine": "American",
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 45,
+      "carbs_g": 38,
+      "fat_g": 20
+    },
+    "flavor_profile": [
+      "savory",
+      "creamy",
+      "crisp",
+      "garlicky"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "quick",
+      "halal"
+    ],
+    "vibe_description": "Charred chicken breast, crisp romaine, shaved parmesan, and light Greek-yogurt Caesar dressing in a whole-wheat wrap.",
+    "ingredients": [
+      "350g grilled chicken breast",
+      "2 cups romaine chopped",
+      "1/3 cup yogurt Caesar dressing",
+      "1/4 cup parmesan",
+      "2 whole-wheat wraps"
+    ],
+    "steps": [
+      "Toss romaine, chicken, parmesan, and dressing.",
+      "Roll tightly in warm wraps and slice."
+    ]
+  },
+  {
+    "id": "peanut_banana_bulking_toast_bowl",
+    "name": "950-Calorie Mass-Gainer Granola & Nut Bowl",
+    "cuisine": "American",
+    "prep_time_min": 5,
+    "cook_time_min": 0,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 950,
+      "protein_g": 42,
+      "carbs_g": 104,
+      "fat_g": 40
+    },
+    "flavor_profile": [
+      "sweet",
+      "crunchy",
+      "nutty",
+      "creamy",
+      "rich"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "vegetarian",
+      "bulking",
+      "quick",
+      "no-cook"
+    ],
+    "vibe_description": "Crunchy protein granola drowned in whole milk, Greek yogurt, 2 tbsp almond butter, honey, and banana.",
+    "ingredients": [
+      "1 cup protein granola",
+      "1 cup whole milk, 1/2 cup Greek yogurt",
+      "2 tbsp almond butter",
+      "1 banana, 1 tbsp honey"
+    ],
+    "steps": [
+      "Layer granola, yogurt, milk, almond butter, banana, and honey in a large bowl."
+    ]
+  },
+  {
+    "id": "spicy_harissa_chicken_sweet_potato",
+    "name": "Sheet-Pan Harissa Chicken & Sweet Potatoes",
+    "cuisine": "North African",
+    "prep_time_min": 10,
+    "cook_time_min": 28,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 530,
+      "protein_g": 44,
+      "carbs_g": 46,
+      "fat_g": 18
+    },
+    "flavor_profile": [
+      "spicy",
+      "smoky",
+      "sweet",
+      "bold"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "dairy-free",
+      "meal-prep",
+      "halal"
+    ],
+    "vibe_description": "One-pan roasted chicken thighs and caramelized sweet potato cubes glazed in smoky harissa and honey.",
+    "ingredients": [
+      "500g chicken thighs",
+      "2 sweet potatoes cubed",
+      "2 tbsp harissa, 1 tbsp honey, 1 tbsp olive oil"
+    ],
+    "steps": [
+      "Toss chicken and sweet potatoes in harissa glaze.",
+      "Roast at 215°C for 25-28 min until caramelized."
+    ]
+  },
+  {
+    "id": "jalapeno_popper_chicken_skillet",
+    "name": "Fiery Jalapeño Popper Stuffed Chicken",
+    "cuisine": "American",
+    "prep_time_min": 10,
+    "cook_time_min": 22,
+    "servings": 2,
+    "difficulty": "Medium",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 50,
+      "carbs_g": 8,
+      "fat_g": 34
+    },
+    "flavor_profile": [
+      "fiery",
+      "cheesy",
+      "creamy",
+      "spicy"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "low-carb",
+      "gluten-free",
+      "halal"
+    ],
+    "vibe_description": "Juicy chicken breasts stuffed with cream cheese, sharp cheddar, and diced jalapeños, baked until bubbling.",
+    "ingredients": [
+      "2 large chicken breasts",
+      "60g cream cheese, 1/2 cup cheddar",
+      "2 jalapeños diced",
+      "1 tsp smoked paprika"
+    ],
+    "steps": [
+      "Cut pockets into chicken breasts and stuff with cheese and jalapeños.",
+      "Sear 3 min, then bake at 200°C for 18 min."
+    ]
+  },
+  {
+    "id": "tofu_edamame_miso_ramen",
+    "name": "20-Minute Spicy Miso Tofu & Edamame Ramen",
+    "cuisine": "Japanese",
+    "prep_time_min": 8,
+    "cook_time_min": 12,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 28,
+      "carbs_g": 66,
+      "fat_g": 16
+    },
+    "flavor_profile": [
+      "spicy",
+      "umami",
+      "warm",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "quick"
+    ],
+    "vibe_description": "Steaming chili-miso broth loaded with ramen noodles, crispy tofu, shelled edamame, and sweet corn.",
+    "ingredients": [
+      "2 packs ramen noodles",
+      "3 tbsp red miso, 1 tbsp chili oil",
+      "250g tofu cubed",
+      "1 cup edamame and corn",
+      "4 cups vegetable broth"
+    ],
+    "steps": [
+      "Simmer broth with miso and chili oil.",
+      "Cook noodles, tofu, and veggies in broth 5 min and serve hot."
+    ]
+  },
+  {
+    "id": "chicken_biryani_express",
+    "name": "Weeknight Hyderabadi Chicken Biryani",
+    "cuisine": "South Asian",
+    "prep_time_min": 20,
+    "cook_time_min": 30,
+    "servings": 4,
+    "difficulty": "Medium",
+    "nutrition": {
+      "calories": 630,
+      "protein_g": 40,
+      "carbs_g": 68,
+      "fat_g": 22
+    },
+    "flavor_profile": [
+      "aromatic",
+      "spicy",
+      "rich",
+      "savory",
+      "bold"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "halal"
+    ],
+    "vibe_description": "Fragrant saffron basmati rice layered with yogurt-marinated spiced chicken, fried onions, and fresh mint.",
+    "ingredients": [
+      "600g chicken thighs",
+      "2 cups aged basmati rice",
+      "1/2 cup yogurt, 2 tbsp biryani masala",
+      "Fried onions, mint, saffron milk"
+    ],
+    "steps": [
+      "Cook spiced chicken in yogurt 12 min.",
+      "Layer parboiled basmati rice on top, seal, and steam 15 min."
+    ]
+  },
+  {
+    "id": "lemon_herb_chicken_orzo",
+    "name": "One-Pot Lemon Garlic Chicken & Orzo",
+    "cuisine": "Mediterranean",
+    "prep_time_min": 10,
+    "cook_time_min": 22,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 550,
+      "protein_g": 44,
+      "carbs_g": 52,
+      "fat_g": 18
+    },
+    "flavor_profile": [
+      "zesty",
+      "garlicky",
+      "herby",
+      "creamy"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "halal"
+    ],
+    "vibe_description": "Tender chicken and creamy parmesan-lemon orzo cooked together in one skillet with spinach.",
+    "ingredients": [
+      "450g chicken breast cubed",
+      "1.5 cups orzo pasta",
+      "3 cups chicken broth",
+      "Juice of 1 lemon, 1/3 cup parmesan, 2 cups spinach"
+    ],
+    "steps": [
+      "Sear chicken, add orzo and broth, and simmer 12 min.",
+      "Stir in lemon, parmesan, and spinach."
+    ]
+  },
+  {
+    "id": "chocolate_chia_protein_pudding",
+    "name": "Dark Chocolate Whey Chia Pudding",
+    "cuisine": "American",
+    "prep_time_min": 5,
+    "cook_time_min": 0,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 36,
+      "carbs_g": 32,
+      "fat_g": 18
+    },
+    "flavor_profile": [
+      "chocolaty",
+      "sweet",
+      "creamy",
+      "rich"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "vegetarian",
+      "gluten-free",
+      "quick",
+      "no-cook"
+    ],
+    "vibe_description": "Thick, decadent chocolate pudding made with chia seeds, cocoa powder, chocolate whey, and almond milk.",
+    "ingredients": [
+      "3 tbsp chia seeds",
+      "1 cup milk",
+      "1 scoop chocolate whey",
+      "1 tbsp cocoa powder, 1 tsp maple syrup"
+    ],
+    "steps": [
+      "Whisk all ingredients well.",
+      "Chill 2 hours or overnight until thick."
+    ]
+  },
+  {
+    "id": "szechuan_mapo_tofu_beef",
+    "name": "Fiery Szechuan Mapo Tofu with Beef",
+    "cuisine": "Chinese",
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "servings": 3,
+    "difficulty": "Medium",
+    "nutrition": {
+      "calories": 490,
+      "protein_g": 34,
+      "carbs_g": 18,
+      "fat_g": 32
+    },
+    "flavor_profile": [
+      "fiery",
+      "numbing",
+      "spicy",
+      "savory",
+      "bold",
+      "sizzling"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "low-carb",
+      "dairy-free",
+      "halal"
+    ],
+    "vibe_description": "Silken tofu and minced beef simmered in blazing doubanjiang chili bean paste and numbing Szechuan peppercorn oil.",
+    "ingredients": [
+      "400g silken tofu cubed",
+      "250g ground beef",
+      "2 tbsp doubanjiang chili paste",
+      "1 tsp Szechuan peppercorns, garlic, ginger",
+      "2 tbsp chili oil"
+    ],
+    "steps": [
+      "Brown beef with garlic, ginger, and doubanjiang.",
+      "Simmer 1 cup broth with tofu 6 min, thicken with cornstarch, finish with Szechuan pepper."
+    ]
+  },
+  {
+    "id": "cauliflower_rice_chicken_bowl",
+    "name": "300-Calorie Cutting Chicken & Cauli-Rice Bowl",
+    "cuisine": "American",
+    "prep_time_min": 10,
+    "cook_time_min": 12,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 300,
+      "protein_g": 42,
+      "carbs_g": 12,
+      "fat_g": 9
+    },
+    "flavor_profile": [
+      "light",
+      "zesty",
+      "fresh",
+      "savory"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "low-carb",
+      "gluten-free",
+      "dairy-free",
+      "light",
+      "quick",
+      "halal"
+    ],
+    "vibe_description": "Ultra-lean herb-grilled chicken over cilantro-lime cauliflower rice and salsa for aggressive fat-loss phases.",
+    "ingredients": [
+      "350g chicken breast",
+      "3 cups riced cauliflower",
+      "Juice of 1 lime, cilantro",
+      "1/2 cup tomato salsa"
+    ],
+    "steps": [
+      "Grill seasoned chicken breast.",
+      "Sauté cauliflower rice 4 min with lime and cilantro; serve with salsa."
+    ]
+  },
+  {
+    "id": "steak_gorgonzola_pasta",
+    "name": "1000-Calorie Steak & Gorgonzola Cream Pasta",
+    "cuisine": "Italian",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "servings": 2,
+    "difficulty": "Medium",
+    "nutrition": {
+      "calories": 980,
+      "protein_g": 56,
+      "carbs_g": 76,
+      "fat_g": 50
+    },
+    "flavor_profile": [
+      "rich",
+      "creamy",
+      "cheesy",
+      "savory",
+      "bold"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "bulking",
+      "halal"
+    ],
+    "vibe_description": "Seared sirloin slices over penne drenched in heavy cream, gorgonzola, and parmesan — maximum calorie density.",
+    "ingredients": [
+      "400g sirloin steak",
+      "220g penne pasta",
+      "1 cup heavy cream",
+      "1/2 cup gorgonzola, 1/3 cup parmesan",
+      "2 cups spinach"
+    ],
+    "steps": [
+      "Boil penne and sear steak.",
+      "Simmer cream and cheeses into rich sauce, toss pasta and spinach, top with steak."
+    ]
+  },
+  {
+    "id": "crispy_falafel_hummus_plate",
+    "name": "Crispy Herb Falafel & Garlic Hummus Plate",
+    "cuisine": "Middle Eastern",
+    "prep_time_min": 15,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 20,
+      "carbs_g": 62,
+      "fat_g": 24
+    },
+    "flavor_profile": [
+      "crunchy",
+      "herby",
+      "garlicky",
+      "fresh"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "dairy-free"
+    ],
+    "vibe_description": "Parsley-cilantro chickpea falafel patties served over creamy hummus with warm pita and cucumber salad.",
+    "ingredients": [
+      "1.5 cups soaked chickpeas",
+      "1 cup parsley & cilantro, 3 cloves garlic",
+      "1 tsp cumin, 1/2 cup hummus",
+      "2 pita breads"
+    ],
+    "steps": [
+      "Pulse chickpeas, herbs, garlic, and cumin; form patties and air-fry 14 min.",
+      "Serve over hummus with pita."
+    ]
+  },
+  {
+    "id": "teriyaki_beef_broccoli_rice",
+    "name": "20-Minute Sesame Beef & Broccoli",
+    "cuisine": "Chinese-American",
+    "prep_time_min": 10,
+    "cook_time_min": 10,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 590,
+      "protein_g": 42,
+      "carbs_g": 56,
+      "fat_g": 22
+    },
+    "flavor_profile": [
+      "savory",
+      "sweet",
+      "garlicky",
+      "umami"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "dairy-free",
+      "quick",
+      "halal"
+    ],
+    "vibe_description": "Tender seared flank steak and crisp broccoli florets coated in glossy garlic-ginger soy glaze over rice.",
+    "ingredients": [
+      "350g flank steak sliced",
+      "3 cups broccoli florets",
+      "3 tbsp soy sauce, 1 tbsp brown sugar, garlic, ginger",
+      "1.5 cups cooked rice"
+    ],
+    "steps": [
+      "Sear steak 3 min; steam-sear broccoli 3 min.",
+      "Toss together with garlic-soy glaze and serve over rice."
+    ]
+  },
+  {
+    "id": "egg_bhurji_paratha",
+    "name": "Spicy Indian Egg Bhurji & Whole-Wheat Paratha",
+    "cuisine": "Indian",
+    "prep_time_min": 8,
+    "cook_time_min": 10,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 470,
+      "protein_g": 24,
+      "carbs_g": 40,
+      "fat_g": 24
+    },
+    "flavor_profile": [
+      "spicy",
+      "savory",
+      "warm",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "vibe_description": "Fluffy masala scrambled eggs cooked with green chilies, onions, tomatoes, and turmeric alongside flaky paratha.",
+    "ingredients": [
+      "5 large eggs",
+      "1 onion, 1 tomato, 2 green chilies",
+      "1/2 tsp turmeric, 1 tsp cumin",
+      "2 whole-wheat parathas"
+    ],
+    "steps": [
+      "Sauté onions, chilies, tomato, and spices.",
+      "Scramble in eggs until soft; serve hot with toasted paratha."
+    ]
+  },
+  {
+    "id": "salmon_quinoa_power_salad",
+    "name": "Lemon Dill Salmon & Quinoa Power Salad",
+    "cuisine": "Mediterranean",
+    "prep_time_min": 10,
+    "cook_time_min": 12,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 510,
+      "protein_g": 39,
+      "carbs_g": 36,
+      "fat_g": 24
+    },
+    "flavor_profile": [
+      "fresh",
+      "zesty",
+      "light",
+      "herby"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "dairy-free",
+      "quick"
+    ],
+    "vibe_description": "Flaky roasted salmon over cool quinoa, baby arugula, avocado, and bright lemon-mustard vinaigrette.",
+    "ingredients": [
+      "320g salmon fillets",
+      "1 cup cooked quinoa",
+      "2 cups arugula, 1/2 avocado",
+      "2 tbsp lemon-Dijon dressing"
+    ],
+    "steps": [
+      "Bake or air-fry salmon 10 min.",
+      "Toss quinoa, arugula, and dressing; top with flaked salmon and avocado."
+    ]
+  },
+  {
+    "id": "garlic_chili_oil_noodles",
+    "name": "10-Minute Sizzling Chili Oil Garlic Noodles",
+    "cuisine": "Chinese",
+    "prep_time_min": 5,
+    "cook_time_min": 5,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 560,
+      "protein_g": 16,
+      "carbs_g": 72,
+      "fat_g": 24
+    },
+    "flavor_profile": [
+      "fiery",
+      "sizzling",
+      "garlicky",
+      "spicy",
+      "umami"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "dairy-free",
+      "quick"
+    ],
+    "vibe_description": "Chewy wheat noodles doused in hot sizzling oil poured directly over minced garlic, chili flakes, and scallions.",
+    "ingredients": [
+      "150g wheat noodles",
+      "4 cloves garlic minced",
+      "1.5 tbsp chili flakes, 1 tsp sesame seeds",
+      "2 tbsp soy sauce, 1 tbsp black vinegar",
+      "2 tbsp smoking hot neutral oil"
+    ],
+    "steps": [
+      "Boil noodles and place in bowl.",
+      "Pile garlic, chili flakes, and scallions on top; pour smoking hot oil over to sizzle, then add soy and vinegar."
+    ]
+  },
+  {
+    "id": "chicken_fajita_queso_bowl",
+    "name": "Cheesy Queso Chicken Fajita Rice Bowl",
+    "cuisine": "Mexican",
+    "prep_time_min": 10,
+    "cook_time_min": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 790,
+      "protein_g": 50,
+      "carbs_g": 68,
+      "fat_g": 34
+    },
+    "flavor_profile": [
+      "cheesy",
+      "spicy",
+      "smoky",
+      "creamy",
+      "hearty"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "gluten-free",
+      "bulking",
+      "halal"
+    ],
+    "vibe_description": "Spiced fajita chicken, charred peppers, and cilantro rice smothered in warm melted queso sauce.",
+    "ingredients": [
+      "400g chicken breast",
+      "1.5 cups cooked rice",
+      "1/2 cup warm cheddar queso",
+      "1 bell pepper, 1 onion",
+      "1 tbsp fajita seasoning"
+    ],
+    "steps": [
+      "Sear seasoned chicken and peppers.",
+      "Serve over rice and drizzle generously with warm queso."
+    ]
+  },
+  {
+    "id": "tuna_chickpea_mediterranean_salad",
+    "name": "No-Cook Tuna & Chickpea Protein Salad",
+    "cuisine": "Mediterranean",
+    "prep_time_min": 8,
+    "cook_time_min": 0,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 430,
+      "protein_g": 40,
+      "carbs_g": 32,
+      "fat_g": 16
+    },
+    "flavor_profile": [
+      "fresh",
+      "zesty",
+      "light",
+      "herby"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "dairy-free",
+      "quick",
+      "no-cook"
+    ],
+    "vibe_description": "Zero-cooking 8-minute lunch combining flaky tuna, chickpeas, red onion, parsley, and lemon-olive oil.",
+    "ingredients": [
+      "1 can tuna drained",
+      "1/2 cup chickpeas",
+      "Red onion, parsley, cherry tomatoes",
+      "1 tbsp olive oil, juice of 1/2 lemon"
+    ],
+    "steps": [
+      "Toss all ingredients in a bowl with salt and black pepper."
+    ]
+  },
+  {
+    "id": "bbq_pulled_chicken_sweet_potato",
+    "name": "Smoky BBQ Pulled Chicken Stuffed Sweet Potato",
+    "cuisine": "American",
+    "prep_time_min": 10,
+    "cook_time_min": 25,
+    "servings": 2,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 42,
+      "carbs_g": 62,
+      "fat_g": 10
+    },
+    "flavor_profile": [
+      "smoky",
+      "sweet",
+      "savory",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "gluten-free",
+      "dairy-free",
+      "halal"
+    ],
+    "vibe_description": "Fluffy baked sweet potatoes split open and piled with tender smoky BBQ shredded chicken.",
+    "ingredients": [
+      "2 medium sweet potatoes",
+      "350g shredded chicken breast",
+      "1/3 cup smoky BBQ sauce",
+      "2 tbsp chopped scallions"
+    ],
+    "steps": [
+      "Microwave or bake sweet potatoes until tender.",
+      "Warm shredded chicken in BBQ sauce and stuff into potatoes."
+    ]
+  },
+  {
+    "id": "creamy_coconut_red_lentil_soup",
+    "name": "Velvety Coconut Curried Red Lentil Soup",
+    "cuisine": "Indian-Fusion",
+    "prep_time_min": 10,
+    "cook_time_min": 22,
+    "servings": 4,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 390,
+      "protein_g": 16,
+      "carbs_g": 48,
+      "fat_g": 15
+    },
+    "flavor_profile": [
+      "creamy",
+      "warm",
+      "aromatic",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "vibe_description": "Smooth, golden red lentil soup simmered with ginger, curry powder, and rich coconut milk.",
+    "ingredients": [
+      "1.5 cups red lentils",
+      "1 can coconut milk",
+      "1 tbsp curry powder, 1 tsp turmeric",
+      "4 cups vegetable broth"
+    ],
+    "steps": [
+      "Sauté curry powder and ginger.",
+      "Simmer lentils and broth 18 min, blend smooth with coconut milk."
+    ]
+  },
+  {
+    "id": "spicy_peri_peri_wings",
+    "name": "Crispy Baked Fiery Peri-Peri Chicken Wings",
+    "cuisine": "Portuguese-African",
+    "prep_time_min": 15,
+    "cook_time_min": 35,
+    "servings": 3,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 540,
+      "protein_g": 42,
+      "carbs_g": 4,
+      "fat_g": 38
+    },
+    "flavor_profile": [
+      "fiery",
+      "spicy",
+      "crispy",
+      "zesty",
+      "bold"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "low-carb",
+      "gluten-free",
+      "dairy-free",
+      "halal"
+    ],
+    "vibe_description": "Oven-crisped chicken wings tossed in a blazing lemon-garlic bird's eye chili peri-peri sauce.",
+    "ingredients": [
+      "900g chicken wings",
+      "1 tbsp baking powder",
+      "4 bird's eye chilies, garlic, lemon, smoked paprika, oil"
+    ],
+    "steps": [
+      "Toss wings with baking powder and bake at 220°C for 35 min until crisp.",
+      "Toss in blended peri-peri sauce."
+    ]
+  },
+  {
+    "id": "protein_french_toast_berries",
+    "name": "Cinnamon Vanilla Protein French Toast",
+    "cuisine": "American",
+    "prep_time_min": 5,
+    "cook_time_min": 8,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 39,
+      "carbs_g": 52,
+      "fat_g": 12
+    },
+    "flavor_profile": [
+      "sweet",
+      "warm",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "high-protein",
+      "vegetarian",
+      "quick"
+    ],
+    "vibe_description": "Thick brioche or whole-wheat slices soaked in egg-white and vanilla whey custard, griddled golden.",
+    "ingredients": [
+      "3 slices whole-wheat bread",
+      "1/2 cup egg whites, 1 scoop vanilla whey",
+      "1 tsp cinnamon, 1/4 cup milk",
+      "Berries and syrup"
+    ],
+    "steps": [
+      "Whisk egg whites, whey, milk, and cinnamon.",
+      "Dip bread and griddle 3 min per side; top with berries."
+    ]
+  },
+  {
+    "id": "paneer_tikka_masala_rich",
+    "name": "Rich Creamy Paneer Tikka Masala",
+    "cuisine": "Indian",
+    "prep_time_min": 15,
+    "cook_time_min": 20,
+    "servings": 3,
+    "difficulty": "Medium",
+    "nutrition": {
+      "calories": 610,
+      "protein_g": 26,
+      "carbs_g": 26,
+      "fat_g": 44
+    },
+    "flavor_profile": [
+      "creamy",
+      "rich",
+      "spicy",
+      "aromatic",
+      "comforting"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "gluten-free",
+      "comfort-food"
+    ],
+    "vibe_description": "Charred paneer cubes simmered in a lush spiced tomato-butter-cream masala.",
+    "ingredients": [
+      "300g paneer cubed",
+      "400g crushed tomatoes",
+      "1/2 cup heavy cream, 2 tbsp butter",
+      "1 tbsp garam masala, ginger-garlic paste"
+    ],
+    "steps": [
+      "Sear spiced paneer until golden.",
+      "Simmer tomato-butter masala 12 min, add cream and paneer."
+    ]
+  },
+  {
+    "id": "korean_egg_drop_cheese_toast",
+    "name": "Korean Street-Style Fluffy Egg & Cheese Toast",
+    "cuisine": "Korean",
+    "prep_time_min": 5,
+    "cook_time_min": 8,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 530,
+      "protein_g": 26,
+      "carbs_g": 44,
+      "fat_g": 28
+    },
+    "flavor_profile": [
+      "sweet",
+      "savory",
+      "creamy",
+      "cheesy"
+    ],
+    "dietary_tags": [
+      "vegetarian",
+      "quick"
+    ],
+    "vibe_description": "Buttered toasted brioche stuffed with soft-scrambled eggs, melted cheddar, and sweet sriracha mayo.",
+    "ingredients": [
+      "2 thick brioche slices",
+      "3 eggs soft-scrambled",
+      "2 slices cheddar cheese",
+      "1 tbsp butter, 1 tbsp sriracha mayo"
+    ],
+    "steps": [
+      "Toast brioche in butter.",
+      "Fill with soft scrambled eggs, cheddar, and sriracha mayo."
+    ]
+  },
+  {
+    "id": "bulking_beef_potato_hash",
+    "name": "900-Calorie Steak, Egg & Crispy Potato Skillet",
+    "cuisine": "American",
+    "prep_time_min": 10,
+    "cook_time_min": 20,
+    "servings": 1,
+    "difficulty": "Easy",
+    "nutrition": {
+      "calories": 910,
+      "protein_g": 58,
+      "carbs_g": 66,
+      "fat_g": 46
+    },
+    "flavor_profile": [
+      "hearty",
+      "savory",
+      "crispy",
+      "rich"
+    ],
+    "dietary_tags": [
+      "calorie-dense",
+      "high-protein",
+      "gluten-free",
+      "bulking",
+      "halal"
+    ],
+    "vibe_description": "A massive single-skillet bulking meal: seared diced steak, crispy golden potatoes, cheddar, and 3 fried eggs.",
+    "ingredients": [
+      "250g sirloin steak diced",
+      "300g diced potatoes",
+      "3 large eggs",
+      "1/2 cup cheddar cheese, 2 tbsp butter"
+    ],
+    "steps": [
+      "Pan-fry potatoes in butter until crisp.",
+      "Sear steak 4 min, top with cheddar and 3 fried eggs."
     ]
   }
 ]

@@ -1,9 +1,9 @@
 # MealMind — Semantic Culinary & Nutrition RAG
 
-A lean, evaluation-first **Hybrid RAG** application for culinary and nutrition question answering. Users can search naturally by **flavor/vibe** (*"something that will sizzle my tastebuds"*), **macros** (*"protein rich meal"*, *"calorie dense meal for bulking"*), or **recipe details**.
+A lean, evaluation-first **Hybrid RAG** application over **100 curated recipes** for culinary and nutrition question answering. Users can search naturally by **flavor/vibe** (*"something that will sizzle my tastebuds"*), **macros** (*"protein rich meal"*, *"calorie dense meal for bulking"*), or **recipe details**.
 
 ## NLP Methodology
-1. **Dense Semantic Retrieval**: `sentence-transformers/all-MiniLM-L6-v2` embeddings with cosine similarity — handles vibe/mood queries where exact keywords don't appear in the recipe.
+1. **Dense Semantic Retrieval (ChromaDB)**: `sentence-transformers/all-MiniLM-L6-v2` embeddings stored in a persistent **ChromaDB** vector store (`data/chroma_db`, cosine similarity) — handles vibe/mood queries where exact keywords don't appear in the recipe.
 2. **Sparse Lexical Retrieval**: `BM25Okapi` — handles exact dish names, ingredients, and specific macro terms.
 3. **Hybrid Fusion (RRF) + Lightweight NL Constraint Parsing**: Combines Dense + BM25 via Reciprocal Rank Fusion (`k=60`) and extracts soft nutritional/dietary/flavor constraints from natural language.
 4. **Grounded Generation**: Groq LLM (`openai/gpt-oss-20b`, configurable via `GROQ_MODEL`) with Ollama local fallback and extractive fallback.
