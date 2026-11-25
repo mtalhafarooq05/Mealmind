@@ -89,29 +89,41 @@ def extract_query_constraints(query: str) -> Dict[str, Any]:
         "want_creamy": False,
     }
 
-    # Explicit numeric protein constraint: e.g., "over 40g protein", "at least 50 grams of protein"
-    m_prot = re.search(r"(?:over|at least|>=|more than|\+)?\s*(\d{2,3})\s*(?:g|grams?)\s*(?:of\s+)?protein", q)
-    if m_prot:
+    # Explicit numeric protein constraint: range ("30-50g protein") or single bound ("over 40g protein")
+    m_prot_range = re.search(r"(\d{1,3})\s*(?:-|to|and)\s*(\d{1,3})\s*(?:g|grams?)\s*(?:of\s+)?protein", q)
+    m_prot = re.search(r"(?:over|at least|>=|more than|\+)?\s*(\d{1,3})\s*(?:g|grams?)\s*(?:of\s+)?protein", q)
+    if m_prot_range:
+        constraints["min_protein"] = int(m_prot_range.group(1))
+    elif m_prot:
         constraints["min_protein"] = int(m_prot.group(1))
     elif any(kw in q for kw in ["protein rich", "protein-rich", "high protein", "high-protein", "muscle", "lots of protein"]):
         constraints["min_protein"] = 35
 
-    # Explicit numeric calorie constraints
-    m_cal_min = re.search(r"(?:over|at least|>=|more than|above)\s*(\d{3,4})\s*(?:kcal|cal|calories)", q)
-    m_cal_max = re.search(r"(?:under|below|less than|<=|max)\s*(\d{3,4})\s*(?:kcal|cal|calories)", q)
-    if m_cal_min:
-        constraints["min_calories"] = int(m_cal_min.group(1))
-    elif any(kw in q for kw in ["calorie dense", "calorie-dense", "high calorie", "high-calorie", "bulking", "bulk", "hardgainer", "mass gainer", "calorie surplus"]):
-        constraints["min_calories"] = 700
+    # Explicit numeric calorie constraints: range ("10-100 calories", "between 400 and 600 kcal") or single bound
+    m_cal_range = re.search(r"(?:between\s+)?(\d{2,4})\s*(?:-|to|and)\s*(\d{2,4})\s*(?:kcal|cal|calories)", q)
+    m_cal_min = re.search(r"(?:over|at least|>=|more than|above)\s*(\d{2,4})\s*(?:kcal|cal|calories)", q)
+    m_cal_max = re.search(r"(?:under|below|less than|<=|max|within)\s*(\d{2,4})\s*(?:kcal|cal|calories)", q)
+    if m_cal_range:
+        lo, hi = int(m_cal_range.group(1)), int(m_cal_range.group(2))
+        constraints["min_calories"] = min(lo, hi)
+        constraints["max_calories"] = max(lo, hi)
+    else:
+        if m_cal_min:
+            constraints["min_calories"] = int(m_cal_min.group(1))
+        elif any(kw in q for kw in ["calorie dense", "calorie-dense", "high calorie", "high-calorie", "bulking", "bulk", "hardgainer", "mass gainer", "calorie surplus"]):
+            constraints["min_calories"] = 700
 
-    if m_cal_max:
-        constraints["max_calories"] = int(m_cal_max.group(1))
-    elif any(kw in q for kw in ["low calorie", "low-calorie", "cutting", "light meal", "weight loss"]):
-        constraints["max_calories"] = 420
+        if m_cal_max:
+            constraints["max_calories"] = int(m_cal_max.group(1))
+        elif any(kw in q for kw in ["low calorie", "low-calorie", "cutting", "light meal", "weight loss"]):
+            constraints["max_calories"] = 420
 
-    # Explicit time constraint
-    m_time = re.search(r"(?:under|in|within|less than)\s*(\d{1,2})\s*(?:min|mins|minutes)", q)
-    if m_time:
+    # Explicit time constraint: range ("10-20 minutes") or single bound ("under 10 minutes")
+    m_time_range = re.search(r"(\d{1,3})\s*(?:-|to|and)\s*(\d{1,3})\s*(?:min|mins|minutes)", q)
+    m_time = re.search(r"(?:under|in|within|less than)\s*(\d{1,3})\s*(?:min|mins|minutes)", q)
+    if m_time_range:
+        constraints["max_time"] = max(int(m_time_range.group(1)), int(m_time_range.group(2)))
+    elif m_time:
         constraints["max_time"] = int(m_time.group(1))
     elif any(kw in q for kw in ["quick", "fast", "10-minute", "15-minute", "no-cook"]):
         constraints["max_time"] = 25

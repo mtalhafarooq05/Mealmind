@@ -250,5 +250,68 @@
     "question": "Suggest a quick 25-minute dairy-free Japanese fish dinner",
     "expected_recipe_ids": ["teriyaki_glazed_salmon_broccoli"],
     "reference_answer": "Honey Garlic Teriyaki Salmon & Broccoli is dairy-free, takes 25 minutes total, and delivers 41g protein."
+  },
+  {
+    "id": "q37",
+    "category": "paraphrase_semantic",
+    "question": "I want a heavy drinkable breakfast to help me gain weight",
+    "expected_recipe_ids": ["peanut_chocolate_bulking_smoothie"],
+    "reference_answer": "The 1000-Calorie Chocolate Peanut Butter Bulk Shake is a drinkable 1020-calorie, 55g-protein shake ideal for weight gain."
+  },
+  {
+    "id": "q38",
+    "category": "paraphrase_semantic",
+    "question": "Suggest a slimming dinner with minimal carbs and seafood",
+    "expected_recipe_ids": ["shrimp_garlic_zoodles", "cajun_blackened_tilapia", "mediterranean_baked_salmon"],
+    "reference_answer": "15-Minute Lemon Garlic Shrimp & Zucchini Noodles (290 kcal, 10g carbs) or Spicy Cajun Blackened Tilapia (350 kcal) are lean, low-carb seafood dinners."
+  },
+  {
+    "id": "q39",
+    "category": "paraphrase_semantic",
+    "question": "What can I make in the morning without turning on the stove?",
+    "expected_recipe_ids": ["high_protein_overnight_oats", "peanut_chocolate_bulking_smoothie", "chocolate_chia_protein_pudding"],
+    "reference_answer": "Berry Cheesecake Protein Overnight Oats, 1000-Calorie Chocolate Peanut Butter Bulk Shake, or Dark Chocolate Whey Chia Pudding require zero cooking."
+  },
+  {
+    "id": "q40",
+    "category": "paraphrase_semantic",
+    "question": "Give me a comforting rainy-day soup with zero animal products",
+    "expected_recipe_ids": ["creamy_coconut_red_lentil_soup", "red_lentil_tadka_dal"],
+    "reference_answer": "Velvety Coconut Curried Red Lentil Soup and Smoky Garlic Red Lentil Dal are warm, comforting, 100% plant-based meals."
+  },
+  {
+    "id": "q41",
+    "category": "paraphrase_semantic",
+    "question": "I need a post-workout skillet with beef and spuds for muscle recovery",
+    "expected_recipe_ids": ["garlic_butter_steak_bites_potatoes", "bulking_beef_potato_hash"],
+    "reference_answer": "Garlic Butter Steak Bites & Crispy Potatoes (50g protein) or 900-Calorie Steak, Egg & Crispy Potato Skillet (58g protein) are great post-workout beef and potato meals."
+  },
+  {
+    "id": "q42",
+    "category": "paraphrase_semantic",
+    "question": "Recommend a meat-free Indian cottage cheese wrap",
+    "expected_recipe_ids": ["paneer_bhurji_wrap"],
+    "reference_answer": "Spiced Paneer Bhurji Protein Wrap is a vegetarian Indian wrap with crumbled paneer, onions, green chilies, and mint chutney."
+  },
+  {
+    "id": "q43",
+    "category": "paraphrase_semantic",
+    "question": "I want a cold crunchy lunch with beans and no cooking",
+    "expected_recipe_ids": ["green_goddess_edamame_salad", "tuna_chickpea_mediterranean_salad", "mediterranean_chickpea_quinoa_salad"],
+    "reference_answer": "Crunchy Green Edamame & Avocado Power Salad or No-Cook Tuna & Chickpea Protein Salad are crisp, no-cook lunches."
+  },
+  {
+    "id": "q44",
+    "category": "paraphrase_semantic",
+    "question": "Something cheesy and indulgent with ground beef and macaroni",
+    "expected_recipe_ids": ["loaded_beef_cheeseburger_mac", "mass_gainer_beef_pasta"],
+    "reference_answer": "High-Protein Beef Cheeseburger Mac combines lean ground beef, elbow macaroni, and sharp cheddar in a cheesy one-pot comfort meal."
+  },
+  {
+    "id": "q45",
+    "category": "paraphrase_semantic",
+    "question": "Give me an Italian tomato pasta that has a fiery kick and no meat",
+    "expected_recipe_ids": ["spicy_arrabbiata_chickpea_pasta"],
+    "reference_answer": "Fiery Arrabbiata High-Protein Chickpea Pasta is a vegan Italian pasta in spicy garlic-chili tomato sauce."
   }
 ]
