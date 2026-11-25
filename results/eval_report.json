@@ -100,22 +100,22 @@
   },
   "generation": {
     "none": {
-      "avg_token_f1": 0.2088,
-      "avg_rouge_l": 0.0869,
-      "avg_semantic_similarity": 0.4828,
-      "avg_latency_sec": 1.656
+      "avg_token_f1": 0.1835,
+      "avg_rouge_l": 0.0756,
+      "avg_semantic_similarity": 0.4541,
+      "avg_latency_sec": 1.8371
     },
     "dense": {
-      "avg_token_f1": 0.3171,
-      "avg_rouge_l": 0.1362,
-      "avg_semantic_similarity": 0.6665,
-      "avg_latency_sec": 3.2649
+      "avg_token_f1": 0.2908,
+      "avg_rouge_l": 0.1309,
+      "avg_semantic_similarity": 0.6405,
+      "avg_latency_sec": 3.1459
     },
     "hybrid": {
-      "avg_token_f1": 0.3015,
-      "avg_rouge_l": 0.123,
-      "avg_semantic_similarity": 0.6527,
-      "avg_latency_sec": 3.8342
+      "avg_token_f1": 0.3077,
+      "avg_rouge_l": 0.1373,
+      "avg_semantic_similarity": 0.6771,
+      "avg_latency_sec": 3.1657
     }
   }
 }

@@ -147,16 +147,16 @@ It builds a global Document Frequency table across all 100 recipes:
 
 > **Key Takeaway:** Scaling from 32 → 100 recipes adds semantic distractors (Dense Recall@3: `0.733`). **Hybrid RRF** ties BM25 on Recall@1 (`0.756`) and `paraphrase_semantic` (`0.778`), and lifts Dense-only Recall@3 to **`0.889` (+15.6 pts)**. Zero-shot MiniLM trailing BM25 on exact-keyword queries directly motivates Cross-Encoder reranking as future work.
 
-### End-to-End Generation Evaluation (RAG vs. Baseline, 36 QA Pairs)
+### End-to-End Generation Evaluation (RAG vs. Baseline, 45 QA Pairs)
 - **Token F1:** Word-level precision/recall overlap with the ground-truth reference answer.
 - **ROUGE-L:** Longest Common Subsequence overlap (measures phrasing & completeness).
 - **Semantic Similarity:** Cosine similarity between `all-MiniLM-L6-v2` embeddings of generated vs. reference answers.
 
 | System (`openai/gpt-oss-20b`) | Token F1 | ROUGE-L | Sem. Similarity | Avg Latency |
 | :--- | :---: | :---: | :---: | :---: |
-| **Baseline (No RAG)** | 0.2088 | 0.0869 | 0.4828 | 1.66s |
-| **Dense RAG** | **0.3171** (+51.9%) | **0.1362** (+56.7%) | **0.6665** (+38.1%) | 3.26s |
-| **Hybrid RAG (RRF)** | **0.3015** (+44.4%) | **0.1230** (+41.5%) | **0.6527** (+35.2%) | 3.83s |
+| **Baseline (No RAG)** | 0.1835 | 0.0756 | 0.4541 | 1.84s |
+| **Dense RAG** | 0.2908 (+58.5%) | 0.1309 (+73.1%) | 0.6405 (+41.0%) | 3.15s |
+| **Hybrid RAG (RRF)** | **0.3077** (+67.7%) | **0.1373** (+81.6%) | **0.6771** (+49.1%) | 3.17s |
 
 ---
 
